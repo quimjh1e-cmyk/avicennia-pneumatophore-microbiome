@@ -105,7 +105,7 @@ Raw FASTQ files (48 paired-end files, ~957 MB) are deposited in NCBI SRA:
 
 ## Citation
 
-Heintze, Q. (2025). Spatiotemporal variation and anthropogenic influence on epiphytic prokaryotic communities of *Avicennia germinans* pneumatophores. Master's Thesis, Universitat Oberta de Catalunya.
+Heintze, Q. (2026). Spatiotemporal variation and anthropogenic influence on epiphytic prokaryotic communities of *Avicennia germinans* pneumatophores. Master's Thesis, Universitat Oberta de Catalunya.
 
 ## License
 

@@ -19,6 +19,8 @@ This repository contains the bioinformatic analysis code and processed data for 
 │   ├── metadata/          Sample metadata and QIIME2 manifest files
 │   └── abiotic/           Environmental/physicochemical measurements
 ├── analysis/
+│   ├── qiime2/            QIIME2 sequence processing pipeline
+│   │   └── qiime2_pipeline.sh   Full pipeline: import → DADA2 → taxonomy → diversity
 │   ├── microeco/          R analysis pipeline (microeco package)
 │   │   ├── Rcode/        Step-by-step R scripts (Steps 1-22)
 │   │   ├── Input/        Processed ASV table, taxonomy, tree
@@ -36,12 +38,24 @@ This repository contains the bioinformatic analysis code and processed data for 
 
 ### 1. Sequence Processing (QIIME2 v2026.1.0)
 
-Raw FASTQ files were processed in QIIME2:
+Raw FASTQ files were processed using the pipeline in `analysis/qiime2/qiime2_pipeline.sh`:
+- Import paired-end FASTQ and generate manifest
 - Primer trimming with cutadapt
 - Denoising and ASV generation with DADA2
 - Taxonomy assignment with a pre-trained SILVA 138.2 V3-V4 classifier
 - Chloroplast and mitochondria filtering
 - Phylogenetic tree construction (MAFFT + FastTree)
+- Alpha and beta diversity (core-metrics-phylogenetic)
+- Export of feature table, taxonomy, tree, and representative sequences
+
+```bash
+conda activate qiime2-amplicon-2026.1
+bash analysis/qiime2/qiime2_pipeline.sh --help          # show all options
+bash analysis/qiime2/qiime2_pipeline.sh                  # run with defaults
+bash analysis/qiime2/qiime2_pipeline.sh --threads 8 --rarefaction 21000
+```
+
+Each step checks for existing output and skips if already completed. All parameters (primers, truncation lengths, rarefaction depth, etc.) are configurable via flags or a config file.
 
 ### 2. Community Analysis (R — microeco)
 
@@ -109,4 +123,4 @@ Heintze, Q. (2026). Spatiotemporal variation and anthropogenic influence on epip
 
 ## License
 
-Code in this repository is available under the MIT License. The microeco protocol scripts in `analysis/microeco/` are adapted from [Liu et al. (2025)](https://doi.org/10.1038/s41596-024-01133-1) — see `analysis/microeco/LICENSE` for their original license.
+Code in this repository is available under the MIT License. The microeco protocol scripts in `analysis/microeco/` are adapted from [Liu et al. (2025)](https://doi.org/10.1038/s41596-024-01133-1) - see `analysis/microeco/LICENSE` for their original license.

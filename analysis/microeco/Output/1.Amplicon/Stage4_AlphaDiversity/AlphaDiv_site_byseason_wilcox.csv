@@ -1,0 +1,3 @@
+"","Comparison","by_group","Measure","Method","Group","P.unadj","P.adj","Significance"
+"1","ColaDeBallena - EsteroZacatecas","February","Shannon","Wilcoxon Rank Sum Test","ColaDeBallena",0.0151515151515152,0.0303030303030303,"*"
+"2","ColaDeBallena - EsteroZacatecas","September","Shannon","Wilcoxon Rank Sum Test","EsteroZacatecas",0.24025974025974,0.24025974025974,"ns"

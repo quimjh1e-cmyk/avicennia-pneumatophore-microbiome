@@ -1,0 +1,5 @@
+"","Method","Measure","Factors","Df","Fvalue","P.unadj","Significance"
+"1","anova formula for season*site","Shannon","season",1,28.2796398748002,3.32459529896255e-05,"***"
+"2","anova formula for season*site","Shannon","site",1,0.581502447602392,0.454624468176283,"ns"
+"3","anova formula for season*site","Shannon","season:site",1,7.63418079350782,0.0119979295107475,"*"
+"4","anova formula for season*site","Shannon","Residuals",20,NA,NA,NA

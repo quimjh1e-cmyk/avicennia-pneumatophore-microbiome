@@ -1,0 +1,24 @@
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 999
+
+Response: Distances
+          Df   Sum Sq  Mean Sq      F N.Perm Pr(>F)  
+Groups     3 0.063845 0.021281 2.7624    999  0.073 .
+Residuals 20 0.154080 0.007704                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Pairwise comparisons:
+(Observed p-value below diagonal, permuted p-value above diagonal)
+                          February_ColaDeBallena February_EsteroZacatecas
+February_ColaDeBallena                                           0.630000
+February_EsteroZacatecas                0.639622                         
+September_ColaDeBallena                 0.017917                 0.022775
+September_EsteroZacatecas               0.322166                 0.235358
+                          September_ColaDeBallena September_EsteroZacatecas
+February_ColaDeBallena                   0.017000                     0.306
+February_EsteroZacatecas                 0.035000                     0.248
+September_ColaDeBallena                                               0.329
+September_EsteroZacatecas                0.327883                          

@@ -1,0 +1,26 @@
+sample-id	season	site	tree-id	transect-position	species	sample-type	latitude	longitude	collection-date	COND	TDS	ORP	pH	salinity	temperature
+#q2:types	categorical	categorical	categorical	numeric	categorical	categorical	numeric	numeric	categorical	numeric	numeric	numeric	numeric	numeric	numeric
+FCBAG1	February	ColaDeBallena	CB-T1	1	Avicennia germinans	composite-pneumatophore	24.11732854	-110.3496596	2024-02	80.39	110.00	-50.50	6.68	62.50	20.30
+FCBAG2	February	ColaDeBallena	CB-T2	2	Avicennia germinans	composite-pneumatophore	24.11724639	-110.349705	2024-02	76.84	100.75	-52.00	6.62	51.50	19.40
+FCBAG3	February	ColaDeBallena	CB-T3	3	Avicennia germinans	composite-pneumatophore	24.11716808	-110.3497365	2024-02	66.28	81.66	-83.00	6.66	35.50	18.70
+FCBAG4	February	ColaDeBallena	CB-T4	4	Avicennia germinans	composite-pneumatophore	24.11716672	-110.3497073	2024-02	55.24	62.67	20.50	7.07	23.00	19.30
+FCBAG5	February	ColaDeBallena	CB-T5	5	Avicennia germinans	composite-pneumatophore	24.11708118	-110.3497003	2024-02	55.63	63.57	10.50	7.41	31.00	18.30
+FCBAG6	February	ColaDeBallena	CB-T6	6	Avicennia germinans	composite-pneumatophore	24.11700828	-110.3496416	2024-02	56.11	64.83	-11.00	7.62	25.50	17.85
+FEZAG1	February	EsteroZacatecas	EZ-T1	1	Avicennia germinans	composite-pneumatophore	24.17550372	-110.4316143	2024-02	81.76	110.25	-39.50	6.91	60.50	21.60
+FEZAG2	February	EsteroZacatecas	EZ-T2	2	Avicennia germinans	composite-pneumatophore	24.17593086	-110.437037	2024-02	89.65	128.00	-112.00	6.75	64.00	22.20
+FEZAG3	February	EsteroZacatecas	EZ-T3	3	Avicennia germinans	composite-pneumatophore	24.17706011	-110.4365979	2024-02	93.47	136.45	-192.00	6.75	66.00	22.05
+FEZAG4	February	EsteroZacatecas	EZ-T4	4	Avicennia germinans	composite-pneumatophore	24.17674315	-110.4357429	2024-02	85.78	119.90	-243.50	6.81	56.50	21.40
+FEZAG5	February	EsteroZacatecas	EZ-T5	5	Avicennia germinans	composite-pneumatophore	24.17510105	-110.4349064	2024-02	62.17	74.20	-115.00	7.13	42.50	20.15
+FEZAG6	February	EsteroZacatecas	EZ-T6	6	Avicennia germinans	composite-pneumatophore	24.17584034	-110.4330398	2024-02	87.72	124.65	-189.50	6.73	54.50	20.10
+SCBAG1	September	ColaDeBallena	CB-T1	1	Avicennia germinans	composite-pneumatophore		2024-09
+SCBAG2	September	ColaDeBallena	CB-T2	2	Avicennia germinans	composite-pneumatophore		2024-09
+SCBAG3	September	ColaDeBallena	CB-T3	3	Avicennia germinans	composite-pneumatophore		2024-09
+SCBAG4	September	ColaDeBallena	CB-T4	4	Avicennia germinans	composite-pneumatophore		2024-09
+SCBAG5	September	ColaDeBallena	CB-T5	5	Avicennia germinans	composite-pneumatophore		2024-09
+SCBAG6	September	ColaDeBallena	CB-T6	6	Avicennia germinans	composite-pneumatophore		2024-09
+SEZAG1	September	EsteroZacatecas	EZ-T1	1	Avicennia germinans	composite-pneumatophore		2024-09
+SEZAG2	September	EsteroZacatecas	EZ-T2	2	Avicennia germinans	composite-pneumatophore		2024-09
+SEZAG3	September	EsteroZacatecas	EZ-T3	3	Avicennia germinans	composite-pneumatophore		2024-09
+SEZAG4	September	EsteroZacatecas	EZ-T4	4	Avicennia germinans	composite-pneumatophore		2024-09
+SEZAG5	September	EsteroZacatecas	EZ-T5	5	Avicennia germinans	composite-pneumatophore		2024-09
+SEZAG6	September	EsteroZacatecas	EZ-T6	6	Avicennia germinans	composite-pneumatophore		2024-09

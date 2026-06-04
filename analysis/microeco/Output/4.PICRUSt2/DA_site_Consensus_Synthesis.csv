@@ -1,0 +1,540 @@
+"Pathway_ID","Description","metagenomeSeq","linda","ALDEx2_kw","ancombc2","DESeq2","edgeR","wilcox_GMPR","wilcox_Wrench","Total_Methods_Sig","Found_By_All","Found_By_All_But_One","Found_By_Core"
+"PWY-1422","vitamin E biosynthesis (tocopherols)",1,1,1,1,1,1,1,1,8,TRUE,TRUE,TRUE
+"PWY-7377","cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)",1,1,1,1,1,1,1,1,8,TRUE,TRUE,TRUE
+"PWY-7436","vitamin E biosynthesis (tocotrienols)",1,1,1,1,1,1,1,1,8,TRUE,TRUE,TRUE
+"PWY66-201","nicotine degradation IV",1,1,1,1,1,1,1,1,8,TRUE,TRUE,TRUE
+"CARNMET-PWY","L-carnitine degradation I",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"NADSYN-PWY","NAD de novo biosynthesis II (from tryptophan)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PCPDEG-PWY","pentachlorophenol degradation",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-3481","superpathway of L-phenylalanine and L-tyrosine biosynthesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-5209","methyl-coenzyme M oxidation to CO2",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-5651","L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-5823","superpathway of CDP-glucose-derived O-antigen building blocks biosynthesis",1,1,1,0,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-5860","superpathway of demethylmenaquinol-6 biosynthesis I",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-5862","superpathway of demethylmenaquinol-9 biosynthesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-6313","serotonin degradation",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-6349","CDP-archaeol biosynthesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-6435","4-hydroxybenzoate biosynthesis III (plants)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-6629","superpathway of L-tryptophan biosynthesis",1,1,1,0,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-6731","starch degradation III",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7072","hopanoid biosynthesis (bacteria)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7315","dTDP-N-acetylthomosamine biosynthesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7337","10-cis-heptadecenoyl-CoA degradation (yeast)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7338","10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7340","9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7347","sucrose biosynthesis III",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7431","aromatic biogenic amine degradation (bacteria)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-7579","phycourobilin biosynthesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY-8055","palmitoyl ethanolamide biosynthesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"PWY66-367","ketogenesis",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"SUCSYN-PWY","sucrose biosynthesis I (from photosynthesis)",0,1,1,1,1,1,1,1,7,FALSE,TRUE,FALSE
+"TRPSYN-PWY","L-tryptophan biosynthesis",1,1,1,0,1,1,1,1,7,FALSE,TRUE,FALSE
+"GLCMANNANAUT-PWY","superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"P163-PWY","L-lysine fermentation to acetate and butanoate",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"P461-PWY","hexitol fermentation to lactate, formate, ethanol and acetate",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-1882","superpathway of C1 compounds oxidation to CO2",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-4041","&gamma;-glutamyl cycle",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-4702","phytate degradation I",0,1,0,1,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5531","3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5723","Rubisco shunt",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5837","2-carboxy-1,4-naphthoquinol biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5838","superpathway of menaquinol-8 biosynthesis I",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5845","superpathway of menaquinol-9 biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5850","superpathway of menaquinol-6 biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5861","superpathway of demethylmenaquinol-8 biosynthesis I",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5873","ubiquinol-7 biosynthesis (late decarboxylation)",1,1,0,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5896","superpathway of menaquinol-10 biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5897","superpathway of menaquinol-11 biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5898","superpathway of menaquinol-12 biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-5899","superpathway of menaquinol-13 biosynthesis",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-6588","pyruvate fermentation to acetone",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-6928","superpathway of cholesterol degradation I (cholesterol oxidase)",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-6944","androstenedione degradation I (aerobic)",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-6947","superpathway of cholesterol degradation II (cholesterol dehydrogenase)",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-7948","4-oxopentanoate degradation",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY-801","homocysteine and cysteine interconversion",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY0-1261","anhydromuropeptides recycling I",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"PWY0-1533","methylphosphonate degradation I",0,1,1,0,1,1,1,1,6,FALSE,FALSE,FALSE
+"DTDPRHAMSYN-PWY","dTDP-&beta;-L-rhamnose biosynthesis",0,0,1,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-5129","sphingolipid biosynthesis (plants)",0,1,1,0,1,0,1,1,5,FALSE,FALSE,FALSE
+"PWY-5138","fatty acid &beta;-oxidation IV (unsaturated, even number)",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-5517","L-arabinose degradation III",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-5840","superpathway of menaquinol-7 biosynthesis",0,0,1,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-6293","superpathway of L-cysteine biosynthesis (fungi)",0,0,1,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-6350","archaetidylinositol biosynthesis",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-6478","GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-6486","D-galacturonate degradation II",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-7052","cyanophycin metabolism",0,0,1,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY-7855","ectoine degradation",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"PWY66-399","gluconeogenesis III",0,1,0,0,1,1,1,1,5,FALSE,FALSE,FALSE
+"FAO-PWY","fatty acid &beta;-oxidation I (generic)",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"GLUCOSE1PMETAB-PWY","glucose and glucose-1-phosphate degradation",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"GLYCOGENSYNTH-PWY","glycogen biosynthesis I (from ADP-D-Glucose)",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"HEME-BIOSYNTHESIS-II","heme b biosynthesis I (aerobic)",0,0,1,0,1,1,1,0,4,FALSE,FALSE,FALSE
+"HEME-BIOSYNTHESIS-II-1","heme b biosynthesis V (aerobic)",0,0,1,0,1,1,1,0,4,FALSE,FALSE,FALSE
+"ORNDEG-PWY","superpathway of ornithine degradation",0,1,0,0,1,0,1,1,4,FALSE,FALSE,FALSE
+"P42-PWY","incomplete reductive TCA cycle",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"PWY-5136","fatty acid &beta;-oxidation II (plant peroxisome)",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"PWY-6562","norspermidine biosynthesis",0,1,0,0,1,0,1,1,4,FALSE,FALSE,FALSE
+"PWY-6609","adenine and adenosine salvage III",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"PWY-6672","cis-geranyl-CoA degradation",0,1,0,0,1,0,1,1,4,FALSE,FALSE,FALSE
+"PWY-6902","chitin degradation II (Vibrio)",0,1,1,0,1,1,0,0,4,FALSE,FALSE,FALSE
+"PWY-6906","chitin derivatives degradation",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"PWY-702","L-methionine biosynthesis II",0,0,1,0,1,1,1,0,4,FALSE,FALSE,FALSE
+"PWY-7094","fatty acid salvage",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"PWY-7117","C4 photosynthetic carbon assimilation cycle, PEPCK type",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"PWY-7807","glyphosate degradation III",0,0,1,0,1,0,1,1,4,FALSE,FALSE,FALSE
+"PWY1ZNC-1","assimilatory sulfate reduction IV",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"SO4ASSIM-PWY","assimilatory sulfate reduction I",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"SULFATE-CYS-PWY","superpathway of sulfate assimilation and cysteine biosynthesis",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"UDPNAGSYN-PWY","UDP-N-acetyl-D-glucosamine biosynthesis I",0,0,0,0,1,1,1,1,4,FALSE,FALSE,FALSE
+"ALLANTOINDEG-PWY","superpathway of allantoin degradation in yeast",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"ARGSYNBSUB-PWY","L-arginine biosynthesis II (acetyl cycle)",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"GLUDEG-I-PWY","GABA shunt",0,1,1,0,1,0,0,0,3,FALSE,FALSE,FALSE
+"NAD-BIOSYNTHESIS-II","NAD salvage pathway III (to nicotinamide riboside)",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"P105-PWY","TCA cycle IV (2-oxoglutarate decarboxylase)",0,0,0,0,1,1,1,0,3,FALSE,FALSE,FALSE
+"P381-PWY","adenosylcobalamin biosynthesis II (aerobic)",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"PWY-1541","superpathway of taurine degradation",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-5104","L-isoleucine biosynthesis IV",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"PWY-5181","toluene degradation III (aerobic) (via p-cresol)",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"PWY-5182","toluene degradation II (aerobic) (via 4-methylcatechol)",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"PWY-5189","tetrapyrrole biosynthesis II (from glycine)",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-5918","superpathway of heme b biosynthesis from glutamate",0,0,0,0,1,1,1,0,3,FALSE,FALSE,FALSE
+"PWY-6143","CMP-pseudaminate biosynthesis",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"PWY-6307","L-tryptophan degradation X (mammalian, via tryptamine)",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-6344","L-arginine degradation XIV (oxidative Stickland reaction)",0,0,0,1,1,1,0,0,3,FALSE,FALSE,FALSE
+"PWY-6501","D-glucuronate degradation II",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-6531","mannitol cycle",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-6641","superpathway of sulfolactate degradation",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-6969","TCA cycle V (2-oxoglutarate synthase)",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-7221","guanosine ribonucleotides de novo biosynthesis",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-7323","superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis",0,0,0,0,1,1,1,0,3,FALSE,FALSE,FALSE
+"PWY-7400","L-arginine biosynthesis IV (archaebacteria)",0,0,0,0,1,0,1,1,3,FALSE,FALSE,FALSE
+"PWY-7820","teichuronic acid biosynthesis (B. subtilis 168)",0,1,0,0,0,0,1,1,3,FALSE,FALSE,FALSE
+"PWY3DJ-12","ceramide de novo biosynthesis",0,0,1,0,1,0,1,0,3,FALSE,FALSE,FALSE
+"TOLUENE-DEG-3-OH-PWY","toluene degradation to 2-hydroxypentadienoate (via 4-methylcatechol)",0,1,0,0,1,1,0,0,3,FALSE,FALSE,FALSE
+"ASPASN-PWY","superpathway of L-aspartate and L-asparagine biosynthesis",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"CODH-PWY","reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"DENITRIFICATION-PWY","nitrate reduction I (denitrification)",0,1,0,0,1,0,0,0,2,FALSE,FALSE,FALSE
+"METH-ACETATE-PWY","methanogenesis from acetate",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"NONOXIPENT-PWY","pentose phosphate pathway (non-oxidative branch) I",0,0,0,0,1,0,1,0,2,FALSE,FALSE,FALSE
+"P108-PWY","pyruvate fermentation to propanoate I",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-1361","benzoyl-CoA degradation I (aerobic)",0,1,0,0,1,0,0,0,2,FALSE,FALSE,FALSE
+"PWY-4722","creatinine degradation II",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-5067","glycogen biosynthesis II (from UDP-D-Glucose)",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-5188","tetrapyrrole biosynthesis I (from glutamate)",0,0,0,0,1,0,1,0,2,FALSE,FALSE,FALSE
+"PWY-5384","sucrose degradation IV (sucrose phosphorylase)",0,0,0,0,1,0,0,1,2,FALSE,FALSE,FALSE
+"PWY-5505","L-glutamate and L-glutamine biosynthesis",0,0,0,0,1,0,1,0,2,FALSE,FALSE,FALSE
+"PWY-5677","succinate fermentation to butanoate",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-5855","ubiquinol-7 biosynthesis (early decarboxylation)",0,0,0,0,1,0,0,1,2,FALSE,FALSE,FALSE
+"PWY-6305","superpathway of putrescine biosynthesis",0,0,0,0,1,0,1,0,2,FALSE,FALSE,FALSE
+"PWY-6595","superpathway of guanosine nucleotides degradation (plants)",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-6606","guanosine nucleotides degradation II",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-6607","guanosine nucleotides degradation I",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-6608","guanosine nucleotides degradation III",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-6703","preQ0 biosynthesis",0,1,1,0,0,0,0,0,2,FALSE,FALSE,FALSE
+"PWY-7373","superpathway of demethylmenaquinol-6 biosynthesis II",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-762","phospholipid desaturation",1,0,0,1,0,0,0,0,2,FALSE,FALSE,FALSE
+"PWY-7784","reductive acetyl coenzyme A pathway II (autotrophic methanogens)",0,0,0,0,1,1,0,0,2,FALSE,FALSE,FALSE
+"PWY-7942","5-oxo-L-proline metabolism",0,1,1,0,0,0,0,0,2,FALSE,FALSE,FALSE
+"PWY66-409","superpathway of purine nucleotide salvage",0,0,0,0,1,0,0,1,2,FALSE,FALSE,FALSE
+"METHANOGENESIS-PWY","methanogenesis from H2 and CO2",0,1,0,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"P101-PWY","ectoine biosynthesis",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PHOSLIPSYN-PWY","superpathway of phospholipid biosynthesis I (bacteria)",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-5005","biotin biosynthesis II",0,0,0,1,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-5121","superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-5466","matairesinol biosynthesis",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-5494","pyruvate fermentation to propanoate II (acrylate pathway)",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-5647","2-nitrobenzoate degradation I",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-5652","2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-5743","3-hydroxypropanoate cycle",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-5744","glyoxylate assimilation",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-5747","2-methylcitrate cycle II",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6030","serotonin and melatonin biosynthesis",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-6060","malonate degradation II (biotin-dependent)",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-6163","chorismate biosynthesis from 3-dehydroquinate",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6338","superpathway of vanillin and vanillate degradation",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6339","syringate degradation",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6700","queuosine biosynthesis I (de novo)",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6749","CMP-legionaminate biosynthesis I",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6837","fatty acid &beta;-oxidation V (unsaturated, odd number, di-isomerase-dependent)",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-6857","retinol biosynthesis",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-7024","superpathway of the 3-hydroxypropanoate cycle",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-7090","UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-7097","vanillin and vanillate degradation I",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-7128","nicotine degradation III (VPP pathway)",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-7208","superpathway of pyrimidine nucleobases salvage",0,0,0,0,0,0,1,0,1,FALSE,FALSE,FALSE
+"PWY-724","superpathway of L-lysine, L-threonine and L-methionine biosynthesis II",0,0,0,0,0,0,1,0,1,FALSE,FALSE,FALSE
+"PWY-7290","Escherichia coli serotype O86 O-antigen biosynthesis",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-7328","superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-7456","&beta;-(1,4)-mannan degradation",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-7883","anhydromuropeptides recycling II",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-7913","firefly bioluminescence",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY-8181","2-methyl-branched fatty acid &beta;-oxidation",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY-8190","L-glutamate degradation XI (reductive Stickland reaction)",0,0,0,0,0,1,0,0,1,FALSE,FALSE,FALSE
+"PWY0-1061","superpathway of L-alanine biosynthesis",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY0-1586","peptidoglycan maturation (meso-diaminopimelate containing)",0,0,0,0,0,0,1,0,1,FALSE,FALSE,FALSE
+"PWY0-321","phenylacetate degradation I (aerobic)",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY0-42","2-methylcitrate cycle I",0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE
+"PWY4FS-7","phosphatidylglycerol biosynthesis I (plastidic)",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"PWY4FS-8","phosphatidylglycerol biosynthesis II (non-plastidic)",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"THISYNARA-PWY","superpathway of thiamine diphosphate biosynthesis III (eukaryotes)",0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE
+"12DICHLORETHDEG-PWY","1,2-dichloroethane degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"14DICHLORBENZDEG-PWY","1,4-dichlorobenzene degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"1CMET2-PWY","folate transformations III (E. coli)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"3-HYDROXYPHENYLACETATE-DEGRADATION-PWY","4-hydroxyphenylacetate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"AEROBACTINSYN-PWY","aerobactin biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ANAEROFRUCAT-PWY","homolactic fermentation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ANAGLYCOLYSIS-PWY","glycolysis III (from glucose)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ARG+POLYAMINE-SYN","superpathway of arginine and polyamine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ARGDEG-IV-PWY","L-arginine degradation VIII (arginine oxidase pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ARGDEG-PWY","superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ARGININE-SYN4-PWY","L-ornithine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ARGSYN-PWY","L-arginine biosynthesis I (via L-ornithine)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ARO-PWY","chorismate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"AST-PWY","L-arginine degradation II (AST pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"BRANCHED-CHAIN-AA-SYN-PWY","superpathway of branched chain amino acid biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"CALVIN-PWY","Calvin-Benson-Bassham cycle",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"CATECHOL-ORTHO-CLEAVAGE-PWY","catechol degradation to &beta;-ketoadipate",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"CHLOROPHYLL-SYN","3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"CITRULBIO-PWY","L-citrulline biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"COA-PWY","coenzyme A biosynthesis I (prokaryotic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"COA-PWY-1","superpathway of coenzyme A biosynthesis III (mammals)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"COBALSYN-PWY","superpathway of adenosylcobalamin salvage from cobinamide I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"COLANSYN-PWY","colanic acid building blocks biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"COMPLETE-ARO-PWY","superpathway of aromatic amino acid biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"CRNFORCAT-PWY","creatinine degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"DAPLYSINESYN-PWY","L-lysine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"DARABCATK12-PWY","D-arabinose degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"DENOVOPURINE2-PWY","superpathway of purine nucleotides de novo biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"DHGLUCONATE-PYR-CAT-PWY","glucose degradation (oxidative)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ECASYN-PWY","enterobacterial common antigen biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"FERMENTATION-PWY","mixed acid fermentation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"FOLSYN-PWY","superpathway of tetrahydrofolate biosynthesis and salvage",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"FUC-RHAMCAT-PWY","superpathway of fucose and rhamnose degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"FUCCAT-PWY","fucose degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GALACTARDEG-PWY","D-galactarate degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GALACTITOLCAT-PWY","galactitol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GALLATE-DEGRADATION-I-PWY","gallate degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GALLATE-DEGRADATION-II-PWY","gallate degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLUCARDEG-PWY","D-glucarate degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLUCARGALACTSUPER-PWY","superpathway of D-glucarate and D-galactarate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLUCONEO-PWY","gluconeogenesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLUTORN-PWY","L-ornithine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLYCOCAT-PWY","glycogen degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLYCOL-GLYOXDEG-PWY","superpathway of glycol metabolism and degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLYCOLYSIS","glycolysis I (from glucose 6-phosphate)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLYCOLYSIS-E-D","superpathway of glycolysis and the Entner-Doudoroff pathway",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GLYOXYLATE-BYPASS","glyoxylate cycle",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"GOLPDLCAT-PWY","superpathway of glycerol degradation to 1,3-propanediol",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HCAMHPDEG-PWY","3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HEMESYN2-PWY","heme b biosynthesis II (oxygen-independent)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HEXITOLDEGSUPER-PWY","superpathway of hexitol degradation (bacteria)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HISDEG-PWY","L-histidine degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HISTSYN-PWY","L-histidine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HOMOSER-METSYN-PWY","L-methionine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"HSERMETANA-PWY","L-methionine biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ILEUSYN-PWY","L-isoleucine biosynthesis I (from threonine)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"KDO-NAGLIPASYN-PWY","superpathway of (Kdo)2-lipid A biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"KETOGLUCONMET-PWY","ketogluconate metabolism",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"LACTOSECAT-PWY","lactose and galactose degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"LIPASYN-PWY","phospholipases",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"MET-SAM-PWY","superpathway of S-adenosyl-L-methionine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"METHGLYUT-PWY","superpathway of methylglyoxal degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"METHYLGALLATE-DEGRADATION-PWY","methylgallate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"METSYN-PWY","superpathway of L-homoserine and L-methionine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"NAGLIPASYN-PWY","lipid IVA biosynthesis (E. coli)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"NONMEVIPP-PWY","methylerythritol phosphate pathway I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"OANTIGEN-PWY","O-antigen building blocks biosynthesis (E. coli)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"ORNARGDEG-PWY","superpathway of L-arginine and L-ornithine degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P125-PWY","superpathway of (R,R)-butanediol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P164-PWY","purine nucleobases degradation I (anaerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P184-PWY","protocatechuate degradation I (meta-cleavage pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P185-PWY","formaldehyde assimilation III (dihydroxyacetone cycle)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P221-PWY","octane oxidation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P23-PWY","reductive TCA cycle I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P241-PWY","coenzyme B biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P261-PWY","coenzyme M biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P341-PWY","glycolysis V (Pyrococcus)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P4-PWY","superpathway of L-lysine, L-threonine and L-methionine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P441-PWY","superpathway of N-acetylneuraminate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"P562-PWY","myo-inositol degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PANTO-PWY","phosphopantothenate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PANTOSYN-PWY","superpathway of coenzyme A biosynthesis I (bacteria)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PENTOSE-P-PWY","pentose phosphate pathway",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PEPTIDOGLYCANSYN-PWY","peptidoglycan biosynthesis I (meso-diaminopimelate containing)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"POLYAMINSYN3-PWY","superpathway of polyamine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"POLYAMSYN-PWY","superpathway of polyamine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"POLYISOPRENSYN-PWY","polyisoprenoid biosynthesis (E. coli)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PPGPPMET-PWY","ppGpp metabolism",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY","protocatechuate degradation II (ortho-cleavage pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-1042","glycolysis IV",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-1269","CMP-3-deoxy-D-manno-octulosonate biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-1501","mandelate degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-1622","formaldehyde assimilation I (serine pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-181","photorespiration",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-1861","formaldehyde assimilation II (assimilatory RuMP Cycle)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-241","C4 photosynthetic carbon assimilation cycle, NADP-ME type",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-2941","L-lysine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-2942","L-lysine biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-3001","superpathway of L-isoleucine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-3661","glycine betaine degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-3801","sucrose degradation II (sucrose synthase)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-3841","folate transformations II (plants)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-3941","&beta;-alanine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-4321","L-glutamate degradation IV",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-4984","urea cycle",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5022","4-aminobutanoate degradation V",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5028","L-histidine degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5030","L-histidine degradation III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5097","L-lysine biosynthesis VI",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5100","pyruvate fermentation to acetate and lactate II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5101","L-isoleucine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5103","L-isoleucine biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5109","propanoate fermentation to 2-methylbutanoate",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5130","2-oxobutanoate degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5154","L-arginine biosynthesis III (via N-acetyl-L-citrulline)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5178","toluene degradation IV (aerobic) (via catechol)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5179","toluene degradation V (aerobic) (via toluene-cis-diol)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5180","toluene degradation I (aerobic) (via o-cresol)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5183","superpathway of aerobic toluene degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5265","peptidoglycan biosynthesis II (staphylococci)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5328","superpathway of L-methionine salvage and degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5345","superpathway of L-methionine biosynthesis (by sulfhydrylation)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5347","superpathway of L-methionine biosynthesis (transsulfuration)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5367","petroselinate biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5392","reductive TCA cycle II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5415","catechol degradation I (meta-cleavage pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5417","catechol degradation III (ortho-cleavage pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5419","catechol degradation to 2-hydroxypentadienoate II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5420","catechol degradation II (meta-cleavage pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5430","meta cleavage pathway of aromatic compounds",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5431","aromatic compounds degradation via &beta;-ketoadipate",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5484","glycolysis II (from fructose 6-phosphate)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5488","4-nitrophenol degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5497","purine nucleobases degradation II (anaerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5499","vitamin B6 degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5507","adenosylcobalamin biosynthesis I (anaerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5519","D-arabinose degradation III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-561","superpathway of glyoxylate cycle and fatty acid degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5644","4-nitrotoluene degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5645","4-chloronitrobenzene degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5654","2-amino-3-carboxymuconate semialdehyde degradation to 2-hydroxypentadienoate",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5655","L-tryptophan degradation IX",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5656","mannosylglycerate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5659","GDP-mannose biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5667","CDP-diacylglycerol biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5686","UMP biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5692","allantoin degradation to glyoxylate II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5695","inosine 5'-phosphate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5705","allantoin degradation to glyoxylate III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5733","germacrene biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5741","ethylmalonyl-CoA pathway",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5742","L-arginine degradation IX (arginine:pyruvate transaminase pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5818","validamycin biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5910","superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5913","partial TCA cycle (obligate autotrophs)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5920","superpathway of heme b biosynthesis from glycine",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5973","cis-vaccenate biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5989","stearate biosynthesis II (bacteria and plants)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-5995","linoleate biosynthesis I (plants)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6071","superpathway of phenylethylamine degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6075","ergosterol biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6084","3,5-dichlorocatechol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6087","4-chlorocatechol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6089","3-chlorocatechol degradation I (ortho)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6093","4,5-dichlorocatechol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6107","chlorosalicylate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6121","5-aminoimidazole ribonucleotide biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6122","5-aminoimidazole ribonucleotide biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6123","inosine-5'-phosphate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6124","inosine-5'-phosphate biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6125","superpathway of guanosine nucleotides de novo biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6126","superpathway of adenosine nucleotides de novo biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6138","CMP-N-acetylneuraminate biosynthesis I (eukaryotes)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6147","6-hydroxymethyl-dihydropterin diphosphate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6148","tetrahydromethanopterin biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6151","S-adenosyl-L-methionine salvage I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6160","3-dehydroquinate biosynthesis II (archaea)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6165","chorismate biosynthesis II (archaea)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6168","flavin biosynthesis III (fungi)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6182","superpathway of salicylate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6185","4-methylcatechol degradation (ortho cleavage)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6193","3-chlorocatechol degradation II (ortho)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6210","2-aminophenol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-622","starch biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6263","superpathway of menaquinol-8 biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6269","superpathway of adenosylcobalamin salvage from cobinamide II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6270","isoprene biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6277","superpathway of 5-aminoimidazole ribonucleotide biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6292","superpathway of L-cysteine biosynthesis (mammalian)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6317","D-galactose degradation I (Leloir pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6328","L-lysine degradation X",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6342","noradrenaline and adrenaline degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6353","purine nucleotides degradation II (aerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6383","mono-trans, poly-cis decaprenyl phosphate biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6385","peptidoglycan biosynthesis III (mycobacteria)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6386","UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6387","UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6396","superpathway of 2,3-butanediol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6397","mycolyl-arabinogalactan-peptidoglycan complex biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6404","superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6421","arsenate detoxification IV (mycothiol)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6467","Kdo transfer to lipid IVA III (Chlamydia)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6470","peptidoglycan biosynthesis V (&beta;-lactam resistance)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6471","peptidoglycan biosynthesis IV (Enterococcus faecium)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6505","L-tryptophan degradation XII (Geobacillus)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6527","stachyose degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6565","superpathway of polyamine biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6581","spirilloxanthin and 2,2'-diketo-spirilloxanthin biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6612","superpathway of tetrahydrofolate biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6628","superpathway of L-phenylalanine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6630","superpathway of L-tyrosine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6662","superpathway of quinolone and alkylquinolone biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6676","superpathway of sulfide oxidation (phototrophic sulfur bacteria)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6690","cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6748","nitrate reduction VII (denitrification)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6760","D-xylose degradation III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6803","phosphatidylcholine acyl editing",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6808","dTDP-&alpha;-D-forosamine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6823","molybdopterin biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6859","all-trans-farnesol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6873","long chain fatty acid ester synthesis (engineered)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6891","thiazole component of thiamine diphosphate biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6895","superpathway of thiamine diphosphate biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6897","thiamine diphosphate salvage II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6901","superpathway of glucose and xylose degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6920","6-gingerol analog biosynthesis (engineered)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6922","L-N&delta;-acetylornithine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6936","seleno-amino acid biosynthesis (plants)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6942","dTDP-D-desosamine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6946","cholesterol degradation to androstenedione II (cholesterol dehydrogenase)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6948","sitosterol degradation to androstenedione",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6957","mandelate degradation to acetyl-CoA",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6961","L-ascorbate degradation II (bacterial, aerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6962","superpathway of trimethylamine degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6992","1,5-anhydrofructose degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-6993","nicotine degradation II (pyrrolidine pathway)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7013","(S)-propane-1,2-diol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7039","phosphatidate metabolism, as a signaling molecule",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7084","nitrifier denitrification",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7098","vanillin and vanillate degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7111","pyruvate fermentation to isobutanol (engineered)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7115","C4 photosynthetic carbon assimilation cycle, NAD-ME type",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7118","chitin deacetylation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7136","&beta; myrcene degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7159","3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7199","pyrimidine deoxyribonucleosides salvage",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7209","superpathway of pyrimidine ribonucleosides degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-722","nicotinate degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7220","adenosine deoxyribonucleotides de novo biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7222","guanosine deoxyribonucleotides de novo biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7228","superpathway of guanosine nucleotides de novo biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7229","superpathway of adenosine nucleotides de novo biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7234","inosine-5'-phosphate biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7237","myo-, chiro- and scyllo-inositol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7238","sucrose biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7254","TCA cycle VII (acetate-producers)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7255","ergothioneine biosynthesis I (bacteria)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7268","cytosolic NADPH production (yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7269","mitochondrial NADPH production (yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7282","4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7294","D-xylose degradation IV",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7295","L-arabinose degradation IV",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7316","dTDP-N-acetylviosamine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7332","superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7345","superpathway of anaerobic sucrose degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7356","thiamine diphosphate salvage IV (yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7357","thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7371","1,4-dihydroxy-6-naphthoate biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7374","1,4-dihydroxy-6-naphthoate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7376","cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7383","anaerobic energy metabolism (invertebrates, cytosol)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7392","taxadiene biosynthesis (engineered)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7399","methylphosphonate degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7409","phospholipid remodeling (phosphatidylethanolamine, yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7420","monoacylglycerol metabolism (yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7446","sulfoquinovose degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7480","2,3-dihydroxybenzoate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7560","methylerythritol phosphate pathway II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7574","propanoyl-CoA degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7644","heparin degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7654","(8E,10E)-dodeca-8,10-dienol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7663","gondoate biosynthesis (anaerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7674","CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7761","NAD salvage pathway II (PNC IV cycle)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7783","plasmalogen degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7787","L-threitol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7790","UMP biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7791","UMP biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7805","(aminomethyl)phosphonate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7851","coenzyme A biosynthesis II (eukaryotic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7854","crotonyl-CoA/ethylmalonyl-CoA/hydroxybutyryl-CoA cycle (engineered)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7858","(5Z)-dodecenoate biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7873","D-erythronate degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7874","L-threonate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7900","glycogen biosynthesis III (from &alpha;-maltose 1-phosphate)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7902","glucosylglycerol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7947","flexixanthin biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7953","UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7977","L-methionine biosynthesis IV",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-7992","superpathway of menaquinol-8 biosynthesis III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8004","Entner-Doudoroff pathway I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8011","L-serine biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8020","D-xylose degradation V",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8073","lipid IVA biosynthesis (P. putida)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8085","picolinate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8131","5'-deoxyadenosine degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8154","superpathway of cholesterol degradation III (oxidase)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8178","pentose phosphate pathway (non-oxidative branch) II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-8187","L-arginine degradation XIII (reductive Stickland reaction)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-821","superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-822","fructan biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-841","superpathway of purine nucleotides de novo biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-922","mevalonate pathway I (eukaryotes and bacteria)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY-I9","L-cysteine biosynthesis VI (from L-methionine)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1241","ADP-L-glycero-&beta;-D-manno-heptose biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1277","3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1296","purine ribonucleosides degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1297","superpathway of purine deoxyribonucleosides degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1319","CDP-diacylglycerol biosynthesis II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1337","oleate &beta;-oxidation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1338","polymyxin resistance",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1415","superpathway of heme b biosynthesis from uroporphyrinogen-III",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1477","ethanolamine utilization",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-1479","tRNA processing",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-162","superpathway of pyrimidine ribonucleotides de novo biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-301","L-ascorbate degradation I (bacterial, anaerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-41","allantoin degradation IV (anaerobic)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-781","aspartate superpathway",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-845","superpathway of pyridoxal 5'-phosphate biosynthesis and salvage",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY0-862","(5Z)-dodecenoate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY1G-0","mycothiol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY3O-4107","NAD salvage pathway V (PNC V cycle)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY490-3","nitrate reduction VI (assimilatory)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY4FS-5","superpathway of phosphatidylcholine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY4LZ-257","superpathway of fermentation (Chlamydomonas reinhardtii)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY66-301","catecholamine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY66-373","sucrose degradation V (sucrose &alpha;-glucosidase)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY66-374","C20 prostanoid biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY66-388","ceramide degradation by &alpha;-oxidation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY66-389","phytol degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY66-391","fatty acid &beta;-oxidation VI (mammalian peroxisome)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PWY6666-2","dopamine degradation",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PYRIDNUCSAL-PWY","NAD salvage pathway I (PNC VI cycle)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PYRIDNUCSYN-PWY","NAD de novo biosynthesis I (from aspartate)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"PYRIDOXSYN-PWY","pyridoxal 5'-phosphate biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"REDCITCYC","TCA cycle VI (Helicobacter)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"RHAMCAT-PWY","L-rhamnose degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"RIBOSYN2-PWY","flavin biosynthesis I (bacteria and plants)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"RUMP-PWY","formaldehyde oxidation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"SALVADEHYPOX-PWY","adenosine nucleotides degradation II",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"SER-GLYSYN-PWY","superpathway of L-serine and glycine biosynthesis I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"SPHINGOLIPID-SYN-PWY","sphingolipid biosynthesis (yeast)",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"THRESYN-PWY","superpathway of L-threonine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"TRIGLSYN-PWY","diacylglycerol and triacylglycerol biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"TRNA-CHARGING-PWY","tRNA charging",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"TYRFUMCAT-PWY","L-tyrosine degradation I",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"URDEGR-PWY","superpathway of allantoin degradation in plants",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"URSIN-PWY","ureide biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE
+"VALSYN-PWY","L-valine biosynthesis",0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE

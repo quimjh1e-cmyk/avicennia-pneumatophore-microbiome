@@ -1,0 +1,4 @@
+"Model","AUC_train","AUC_test"
+"rf",1,1
+"glmnet",1,1
+"knn",0.772290809327846,1

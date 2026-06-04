@@ -1,0 +1,7 @@
+"","Groups","measure","F","R2","p.value","p.adjusted","Significance"
+"1","February_ColaDeBallena vs February_EsteroZacatecas","bray",5.02317825759456,0.334361888773784,0.002,0.0045,"**"
+"2","February_ColaDeBallena vs September_ColaDeBallena","bray",5.6683535310725,0.361770847194083,0.003,0.0045,"**"
+"3","February_ColaDeBallena vs September_EsteroZacatecas","bray",5.87374149212203,0.370028798505828,0.001,0.0045,"**"
+"4","February_EsteroZacatecas vs September_ColaDeBallena","bray",7.96655356328492,0.443410225295783,0.005,0.005,"**"
+"5","February_EsteroZacatecas vs September_EsteroZacatecas","bray",4.26574619911777,0.299020194217501,0.003,0.0045,"**"
+"6","September_ColaDeBallena vs September_EsteroZacatecas","bray",5.91054242340117,0.371485915823207,0.005,0.005,"**"

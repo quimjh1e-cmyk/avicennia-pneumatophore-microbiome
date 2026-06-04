@@ -1,0 +1,7 @@
+"","by_group","Variables","mantel type","Correlation method","Correlation coefficient","p.value","p.adjusted","Significance"
+"1","All","water_COND","partial mantel test","pearson",-0.0541424137019515,0.778,0.778,""
+"2","All","water_TDS","partial mantel test","pearson",-0.02843238069553,0.651,0.778,""
+"3","All","water_ORP","partial mantel test","pearson",0.130492004310643,0.055,0.165,""
+"4","All","water_pH","partial mantel test","pearson",-0.0379665942448641,0.659,0.778,""
+"5","All","water_salinity","partial mantel test","pearson",-0.0326114077121373,0.645,0.778,""
+"6","All","water_temperature","partial mantel test","pearson",0.433631782890148,0.001,0.006,"**"

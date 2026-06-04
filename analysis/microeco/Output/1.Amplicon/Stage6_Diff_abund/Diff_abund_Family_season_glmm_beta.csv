@@ -1,0 +1,281 @@
+"","Method","Taxa","Factors","R2","Estimate","Std.Error","P.unadj","Significance"
+"1","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","Model","Ferrari's R2: 0.506837050876575",NA,NA,NA,NA
+"2","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","season",NA,NA,NA,1.13861040449142e-06,"***"
+"3","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","(Intercept)",NA,-2.35998504156613,0.0918980437821303,1.93191585394712e-145,"***"
+"4","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","seasonSeptember",NA,0.570692412956582,0.117280856937292,1.13861040449142e-06,"***"
+"5","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","Model","Ferrari's R2: 0.0361665322082206",NA,NA,NA,NA
+"6","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","season",NA,NA,NA,0.335593731335699,"ns"
+"7","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","(Intercept)",NA,-1.97153801242378,0.128728329324194,6.02519486938412e-53,"***"
+"8","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","seasonSeptember",NA,-0.17814969665642,0.185012182091661,0.335593731335699,"ns"
+"9","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","Model","Ferrari's R2: 0.766304747573054",NA,NA,NA,NA
+"10","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","season",NA,NA,NA,1.3104972740779e-10,"***"
+"11","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","(Intercept)",NA,-1.9424230648669,0.118557822223883,2.49805972492969e-60,"***"
+"12","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","seasonSeptember",NA,-1.55235146475399,0.241575458205019,1.3104972740779e-10,"***"
+"13","glmm_beta formula for season","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","Model","Ferrari's R2: 0.568907169504984",NA,NA,NA,NA
+"14","glmm_beta formula for season","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","season",NA,NA,NA,3.04268952907801e-09,"***"
+"15","glmm_beta formula for season","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","(Intercept)",NA,-3.11482349661095,0.126540167094176,8.66450167051256e-134,"***"
+"16","glmm_beta formula for season","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","seasonSeptember",NA,0.899321365682959,0.151674675220638,3.04268952907801e-09,"***"
+"17","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","Model","Ferrari's R2: 0.00356223288781684",NA,NA,NA,NA
+"18","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","season",NA,NA,NA,0.766523978706407,"ns"
+"19","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","(Intercept)",NA,-2.71327174491031,0.122199400670133,3.16720738837686e-109,"***"
+"20","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","seasonSeptember",NA,-0.0508823639807001,0.171364523045462,0.766523978706407,"ns"
+"21","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","Model","Ferrari's R2: 0.577144744992318",NA,NA,NA,NA
+"22","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","season",NA,NA,NA,2.02549987762675e-09,"***"
+"23","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","(Intercept)",NA,-3.9831746284269,0.28027796197317,7.77249387063968e-46,"***"
+"24","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","seasonSeptember",NA,1.79783011425323,0.299850809380915,2.02549987762676e-09,"***"
+"25","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","Model","Ferrari's R2: 0.608887729372086",NA,NA,NA,NA
+"26","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","season",NA,NA,NA,2.05436568152866e-09,"***"
+"27","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","(Intercept)",NA,-3.86988632458689,0.211353209124001,6.88155534865302e-75,"***"
+"28","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","seasonSeptember",NA,1.4076513793618,0.234864995290872,2.05436568152866e-09,"***"
+"29","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","Model","Ferrari's R2: 1.63670053512312e-06",NA,NA,NA,NA
+"30","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","season",NA,NA,NA,0.995607509125712,"ns"
+"31","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","(Intercept)",NA,-3.36622328443626,0.701785402558035,1.61336178227175e-06,"***"
+"32","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","seasonSeptember",NA,0.00231725510686777,0.420921246506986,0.995607509125712,"ns"
+"33","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","Model","Ferrari's R2: 0.000614543847865705",NA,NA,NA,NA
+"34","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","season",NA,NA,NA,0.911586371812986,"ns"
+"35","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","(Intercept)",NA,-3.15775607762125,0.193910369050937,1.26921429184235e-59,"***"
+"36","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","seasonSeptember",NA,-0.0288669947906203,0.259974483760454,0.911586371812986,"ns"
+"37","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","Model","Ferrari's R2: 0.46608727453301",NA,NA,NA,NA
+"38","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","season",NA,NA,NA,1.20204363217533e-07,"***"
+"39","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","(Intercept)",NA,-3.85265537563088,0.1730987508902,9.65362131032582e-110,"***"
+"40","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","seasonSeptember",NA,1.05787782008861,0.199856582996413,1.20204363217533e-07,"***"
+"41","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","Model","Ferrari's R2: 0.0159948207961345",NA,NA,NA,NA
+"42","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","season",NA,NA,NA,0.549123080767309,"ns"
+"43","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","(Intercept)",NA,-3.50985961813428,0.138132277332657,1.98492367941886e-142,"***"
+"44","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","seasonSeptember",NA,-0.116610053048119,0.194650275809929,0.54912308076731,"ns"
+"45","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","Model","Ferrari's R2: 0.499295115330184",NA,NA,NA,NA
+"46","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","season",NA,NA,NA,0.000384924863141698,"***"
+"47","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","(Intercept)",NA,-4.6853726514583,0.333558550260174,8.07909729191079e-45,"***"
+"48","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","seasonSeptember",NA,1.24118025509081,0.349607620230222,0.000384924863141698,"***"
+"49","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","Model","Ferrari's R2: 0.335135602686742",NA,NA,NA,NA
+"50","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","season",NA,NA,NA,1.33918867183618e-08,"***"
+"51","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","(Intercept)",NA,-5.88686475958264,0.508436043742882,5.30400461183528e-31,"***"
+"52","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","seasonSeptember",NA,2.44345772274633,0.430111402965465,1.33918867183617e-08,"***"
+"53","glmm_beta formula for season","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","Model","Ferrari's R2: 0.0313603120085897",NA,NA,NA,NA
+"54","glmm_beta formula for season","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","season",NA,NA,NA,0.0795370096388831,"ns"
+"55","glmm_beta formula for season","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","(Intercept)",NA,-4.53996920067917,0.420490145806561,3.56213687314309e-27,"***"
+"56","glmm_beta formula for season","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","seasonSeptember",NA,0.688894691353251,0.39289553187357,0.0795370096388831,"ns"
+"57","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","Model","Ferrari's R2: 0.00402693588822737",NA,NA,NA,NA
+"58","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","season",NA,NA,NA,0.765271701490146,"ns"
+"59","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","(Intercept)",NA,-4.33513026412235,0.213188716574294,6.34161104632503e-92,"***"
+"60","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","seasonSeptember",NA,0.0818316477947341,0.274082862849359,0.765271701490146,"ns"
+"61","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","Model","Ferrari's R2: 0.0820115440302749",NA,NA,NA,NA
+"62","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","season",NA,NA,NA,0.207889134199615,"ns"
+"63","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","(Intercept)",NA,-4.82416553568106,0.309707955610096,1.05159306505291e-54,"***"
+"64","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","seasonSeptember",NA,0.433378453325306,0.344117473536865,0.207889134199615,"ns"
+"65","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","Model","Ferrari's R2: 0.143325065247031",NA,NA,NA,NA
+"66","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","season",NA,NA,NA,2.88436701123545e-13,"***"
+"67","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","(Intercept)",NA,-3.96437400043724,0.13407929380626,3.9260279593382e-192,"***"
+"68","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","seasonSeptember",NA,-2.69620680838531,0.369359206376879,2.88436701123547e-13,"***"
+"69","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","Model","Ferrari's R2: 0.207221958388209",NA,NA,NA,NA
+"70","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","season",NA,NA,NA,0.0105682524270943,"*"
+"71","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","(Intercept)",NA,-4.97165506349738,0.200811602156618,2.5546245541584e-135,"***"
+"72","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","seasonSeptember",NA,0.614081470679074,0.240188966859679,0.0105682524270943,"*"
+"73","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","Model","Ferrari's R2: 0.117953269778739",NA,NA,NA,NA
+"74","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","season",NA,NA,NA,2.61537000772219e-07,"***"
+"75","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","(Intercept)",NA,-6.0709680433885,0.387534649204313,2.59909411716442e-55,"***"
+"76","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","seasonSeptember",NA,1.97055686975646,0.382688500830264,2.61537000772217e-07,"***"
+"77","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","Model","Ferrari's R2: 0.741067874260046",NA,NA,NA,NA
+"78","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","season",NA,NA,NA,1.72366475972942e-09,"***"
+"79","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","(Intercept)",NA,-4.22132841661482,0.118427471412726,2.83239075813873e-278,"***"
+"80","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","seasonSeptember",NA,-1.50125963128339,0.249299413872575,1.72366475972942e-09,"***"
+"81","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","Model","Ferrari's R2: 0.714105691017562",NA,NA,NA,NA
+"82","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","season",NA,NA,NA,1.67406297522686e-09,"***"
+"83","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","(Intercept)",NA,-4.27362038911238,0.124981294562061,2.96101397803323e-256,"***"
+"84","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","seasonSeptember",NA,-1.62822234413472,0.27017096161809,1.67406297522686e-09,"***"
+"85","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","Model","Ferrari's R2: 0.059532290507107",NA,NA,NA,NA
+"86","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","season",NA,NA,NA,0.0570500664337087,"ns"
+"87","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","(Intercept)",NA,-5.27161084942587,0.573902435717948,4.09420772013674e-20,"***"
+"88","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","seasonSeptember",NA,0.776944506214781,0.408289172919992,0.0570500664337089,"ns"
+"89","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","Model","Ferrari's R2: 0.167003834619325",NA,NA,NA,NA
+"90","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","season",NA,NA,NA,1.96830419877985e-07,"***"
+"91","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","(Intercept)",NA,-6.5301866693093,0.459235184177402,6.91484739859048e-46,"***"
+"92","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","seasonSeptember",NA,2.17133310547117,0.417378939642309,1.96830419877985e-07,"***"
+"93","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","Model","Ferrari's R2: 0.129869644522839",NA,NA,NA,NA
+"94","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","season",NA,NA,NA,0.068660250510502,"ns"
+"95","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","(Intercept)",NA,-4.7552814880601,0.184506512463909,1.78197093972261e-146,"***"
+"96","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","seasonSeptember",NA,-0.4943546626849,0.271526637253662,0.0686602505105021,"ns"
+"97","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","Model","Ferrari's R2: 0.112495561015284",NA,NA,NA,NA
+"98","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","season",NA,NA,NA,2.63474499860054e-07,"***"
+"99","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","(Intercept)",NA,-4.41889108168429,0.19978265928086,2.0982727594524e-108,"***"
+"100","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","seasonSeptember",NA,-1.94915175064832,0.378633376224298,2.63474499860055e-07,"***"
+"101","glmm_beta formula for season","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","Model","Ferrari's R2: 0.371852568939417",NA,NA,NA,NA
+"102","glmm_beta formula for season","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","season",NA,NA,NA,0.000750665385226074,"***"
+"103","glmm_beta formula for season","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","(Intercept)",NA,-4.58816776995764,0.197527079704209,2.3717000395588e-119,"***"
+"104","glmm_beta formula for season","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","seasonSeptember",NA,-1.0856933672501,0.322128563882278,0.000750665385226073,"***"
+"105","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","Model","Ferrari's R2: 0.240190343835449",NA,NA,NA,NA
+"106","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","season",NA,NA,NA,9.51274606345113e-06,"***"
+"107","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","(Intercept)",NA,-4.46386460570682,0.379811768399285,6.82896096137552e-32,"***"
+"108","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","seasonSeptember",NA,-1.85309601692837,0.418498585120262,9.51274606345112e-06,"***"
+"109","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","Model","Ferrari's R2: 0.131805563692306",NA,NA,NA,NA
+"110","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","season",NA,NA,NA,0.0628813249732118,"ns"
+"111","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","(Intercept)",NA,-4.79537901478607,0.727047735903476,4.23292239121524e-11,"***"
+"112","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","seasonSeptember",NA,-0.763647177468308,0.410556444344742,0.0628813249732121,"ns"
+"113","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","Model","Ferrari's R2: 0.00450304601201815",NA,NA,NA,NA
+"114","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","season",NA,NA,NA,0.594793972964179,"ns"
+"115","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","(Intercept)",NA,-5.04621054147793,0.484892261402109,2.30682684099756e-25,"***"
+"116","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","seasonSeptember",NA,-0.213113157456047,0.40066255784925,0.594793972964179,"ns"
+"117","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","Model","Ferrari's R2: 0.0163743245005451",NA,NA,NA,NA
+"118","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","season",NA,NA,NA,0.620206273898158,"ns"
+"119","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","(Intercept)",NA,-5.22383145874375,0.873395050404263,2.21685110705323e-09,"***"
+"120","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","seasonSeptember",NA,-0.202891384973389,0.409420037191683,0.620206273898158,"ns"
+"121","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","Model","Ferrari's R2: 0.114253104552922",NA,NA,NA,NA
+"122","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","season",NA,NA,NA,1.14856882263331e-07,"***"
+"123","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","(Intercept)",NA,-4.72299961002986,0.192621300254529,9.12667729650582e-133,"***"
+"124","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","seasonSeptember",NA,-1.99648554467317,0.376589011090257,1.14856882263331e-07,"***"
+"125","glmm_beta formula for season","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","Model","Ferrari's R2: 0.293101513371937",NA,NA,NA,NA
+"126","glmm_beta formula for season","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","season",NA,NA,NA,0.0203643302172504,"*"
+"127","glmm_beta formula for season","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","(Intercept)",NA,-4.97921209114766,0.76542086395044,7.75925848348824e-11,"***"
+"128","glmm_beta formula for season","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","seasonSeptember",NA,-0.953343843834976,0.41100083607594,0.0203643302172504,"*"
+"129","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","Model","Ferrari's R2: 0.1268673229662",NA,NA,NA,NA
+"130","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","season",NA,NA,NA,1.692007783511e-06,"***"
+"131","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","(Intercept)",NA,-4.81272647766103,0.257684242365434,7.64157286003939e-78,"***"
+"132","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","seasonSeptember",NA,-1.9376579045325,0.404765762067881,1.692007783511e-06,"***"
+"133","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","Model","Ferrari's R2: 0.328552708331134",NA,NA,NA,NA
+"134","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","season",NA,NA,NA,3.3028420948231e-11,"***"
+"135","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","(Intercept)",NA,-4.8043229640695,0.248473629162236,2.70858368781854e-83,"***"
+"136","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","seasonSeptember",NA,-2.88647833680938,0.435209078597194,3.30284209482311e-11,"***"
+"137","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","Model","Ferrari's R2: 0.0912278131225771",NA,NA,NA,NA
+"138","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","season",NA,NA,NA,0.0131426324622567,"*"
+"139","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","(Intercept)",NA,-6.11684011603279,0.559665681913701,8.33487519580467e-28,"***"
+"140","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","seasonSeptember",NA,1.01234445217501,0.408223035540314,0.0131426324622567,"*"
+"141","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","Model","Ferrari's R2: 0.0602876753566152",NA,NA,NA,NA
+"142","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","season",NA,NA,NA,0.00191742387719322,"**"
+"143","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","(Intercept)",NA,-5.14339799782895,0.277871132491216,1.71462443990729e-76,"***"
+"144","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","seasonSeptember",NA,-1.17956539452272,0.380169773720621,0.00191742387719322,"**"
+"145","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","Model","Ferrari's R2: 0.125198301484968",NA,NA,NA,NA
+"146","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","season",NA,NA,NA,0.125478644620511,"ns"
+"147","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","(Intercept)",NA,-5.38971076604424,0.808795440647246,2.66702460709769e-11,"***"
+"148","glmm_beta formula for season","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","seasonSeptember",NA,-0.627337944830357,0.409442087323654,0.125478644620511,"ns"
+"149","glmm_beta formula for season","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","Model","Ferrari's R2: 0.0504985685898239",NA,NA,NA,NA
+"150","glmm_beta formula for season","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","season",NA,NA,NA,0.00313785182688071,"**"
+"151","glmm_beta formula for season","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","(Intercept)",NA,-6.3856042062442,0.383362231850185,2.69903621830749e-62,"***"
+"152","glmm_beta formula for season","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","seasonSeptember",NA,1.11230212065592,0.37655368888566,0.00313785182688071,"**"
+"153","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","Model","Ferrari's R2: 0.158263468067665",NA,NA,NA,NA
+"154","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","season",NA,NA,NA,2.98066121250555e-05,"***"
+"155","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","(Intercept)",NA,-5.17463648860604,0.311499638455415,5.70449839808206e-62,"***"
+"156","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","seasonSeptember",NA,-1.70437073646932,0.408238492131711,2.98066121250555e-05,"***"
+"157","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","Model","Ferrari's R2: 0.0920874392103307",NA,NA,NA,NA
+"158","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","season",NA,NA,NA,1.89002591961941e-06,"***"
+"159","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","(Intercept)",NA,-5.18221960959678,0.205629523086838,3.83456825145365e-140,"***"
+"160","glmm_beta formula for season","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","seasonSeptember",NA,-1.77387252764434,0.372283673926752,1.89002591961941e-06,"***"
+"161","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","Model","Ferrari's R2: 0.16983969974177",NA,NA,NA,NA
+"162","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","season",NA,NA,NA,2.43619897146578e-08,"***"
+"163","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","(Intercept)",NA,-5.13805304214682,0.247874219424952,1.91795496394362e-95,"***"
+"164","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","seasonSeptember",NA,-2.32720058128186,0.417227693482816,2.43619897146577e-08,"***"
+"165","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","Model","Ferrari's R2: 0.0754952472969357",NA,NA,NA,NA
+"166","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","season",NA,NA,NA,0.0860675564248367,"ns"
+"167","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","(Intercept)",NA,-6.16908805084292,0.684080922343392,1.91436061163597e-19,"***"
+"168","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","seasonSeptember",NA,0.701227714220963,0.408517906541596,0.0860675564248365,"ns"
+"169","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","Model","Ferrari's R2: 0.19973859534649",NA,NA,NA,NA
+"170","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","season",NA,NA,NA,0.000835362916654895,"***"
+"171","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","(Intercept)",NA,-5.34281190348463,0.507402948179471,6.30204300834623e-26,"***"
+"172","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","seasonSeptember",NA,-1.37936777065512,0.4128850223439,0.000835362916654895,"***"
+"173","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","Model","Ferrari's R2: 0.151770865051122",NA,NA,NA,NA
+"174","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","season",NA,NA,NA,0.00610496521976191,"**"
+"175","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","(Intercept)",NA,-5.45195487473512,0.550727070999273,4.18116609482956e-23,"***"
+"176","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","seasonSeptember",NA,-1.12580839828377,0.410565841288184,0.00610496521976191,"**"
+"177","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","Model","Ferrari's R2: 0.00644740698872691",NA,NA,NA,NA
+"178","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","season",NA,NA,NA,0.521519274174051,"ns"
+"179","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","(Intercept)",NA,-6.02259096811885,0.538572130975396,4.96622686618617e-29,"***"
+"180","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","seasonSeptember",NA,0.257725924057946,0.402065233325515,0.521519274174051,"ns"
+"181","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","Model","Ferrari's R2: 0.0966497736106481",NA,NA,NA,NA
+"182","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","season",NA,NA,NA,0.0146150493541827,"*"
+"183","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","(Intercept)",NA,-6.75935748226111,0.587946235877888,1.37282839349367e-30,"***"
+"184","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","seasonSeptember",NA,0.997241536681436,0.408407608735011,0.0146150493541827,"*"
+"185","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","Model","Ferrari's R2: 0.116115907662871",NA,NA,NA,NA
+"186","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","season",NA,NA,NA,0.0060847476949337,"**"
+"187","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","(Intercept)",NA,-5.73643719761228,0.501338750318583,2.57165491058741e-30,"***"
+"188","glmm_beta formula for season","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","seasonSeptember",NA,-1.12304926148903,0.409396979081407,0.00608474769493369,"**"
+"189","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","Model","Ferrari's R2: 0.300924258236595",NA,NA,NA,NA
+"190","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","season",NA,NA,NA,2.07301727733238e-09,"***"
+"191","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","(Intercept)",NA,-5.59268922899274,0.282226721688079,2.15375857253807e-87,"***"
+"192","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","seasonSeptember",NA,-2.57437977950138,0.429637595810884,2.07301727733237e-09,"***"
+"193","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","Model","Ferrari's R2: 0.152774162305336",NA,NA,NA,NA
+"194","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","season",NA,NA,NA,0.0158738238225027,"*"
+"195","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","(Intercept)",NA,-5.8786930756577,0.630180361548078,1.07290463479611e-20,"***"
+"196","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","seasonSeptember",NA,-0.988490904977934,0.409855449626618,0.0158738238225027,"*"
+"197","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","Model","Ferrari's R2: 0.19579585113736",NA,NA,NA,NA
+"198","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","season",NA,NA,NA,3.9463303393181e-07,"***"
+"199","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","(Intercept)",NA,-7.81719143106926,0.481022874102117,2.19090518472309e-59,"***"
+"200","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","seasonSeptember",NA,2.1287954746746,0.419754212397789,3.94633033931809e-07,"***"
+"201","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","Model","Ferrari's R2: 0.128135947489425",NA,NA,NA,NA
+"202","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","season",NA,NA,NA,0.00421254986292868,"**"
+"203","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","(Intercept)",NA,-5.85416325718905,0.496078047005615,3.8619764125775e-32,"***"
+"204","glmm_beta formula for season","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","seasonSeptember",NA,-1.17280250352457,0.409814212456611,0.00421254986292867,"**"
+"205","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","Model","Ferrari's R2: 0.0133014446520124",NA,NA,NA,NA
+"206","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","season",NA,NA,NA,0.401038178828436,"ns"
+"207","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","(Intercept)",NA,-6.13560643313063,0.59256920296795,4.00334442166365e-25,"***"
+"208","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","seasonSeptember",NA,-0.340175731899651,0.40508273151036,0.401038178828436,"ns"
+"209","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","Model","Ferrari's R2: 0.021528095912667",NA,NA,NA,NA
+"210","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","season",NA,NA,NA,0.282001771149703,"ns"
+"211","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","(Intercept)",NA,-6.10445032410283,0.584568585978243,1.58313303518882e-25,"***"
+"212","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","seasonSeptember",NA,-0.436073296062916,0.405335338594226,0.282001771149702,"ns"
+"213","glmm_beta formula for season","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","Model","Ferrari's R2: 0.0251211308877123",NA,NA,NA,NA
+"214","glmm_beta formula for season","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","season",NA,NA,NA,0.147293454522465,"ns"
+"215","glmm_beta formula for season","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","(Intercept)",NA,-6.66933121340461,0.514605507796857,2.06018643157034e-38,"***"
+"216","glmm_beta formula for season","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","seasonSeptember",NA,0.581260545509817,0.40110224860612,0.147293454522466,"ns"
+"217","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","Model","Ferrari's R2: 0.0757417149038413",NA,NA,NA,NA
+"218","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","season",NA,NA,NA,0.0713456744754064,"ns"
+"219","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","(Intercept)",NA,-6.05518849502113,0.627504853973,4.93342996699739e-22,"***"
+"220","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","seasonSeptember",NA,-0.735731205568394,0.407998149420328,0.0713456744754063,"ns"
+"221","glmm_beta formula for season","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","Model","Ferrari's R2: 0.0120542657103655",NA,NA,NA,NA
+"222","glmm_beta formula for season","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","season",NA,NA,NA,0.410351283737992,"ns"
+"223","glmm_beta formula for season","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","(Intercept)",NA,-6.24124455945783,0.585930133514371,1.70919142551587e-26,"***"
+"224","glmm_beta formula for season","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","seasonSeptember",NA,-0.333246823163739,0.404781608533905,0.410351283737992,"ns"
+"225","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","Model","Ferrari's R2: 0.711989959359532",NA,NA,NA,NA
+"226","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","season",NA,NA,NA,0.000184516051794354,"***"
+"227","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","(Intercept)",NA,-7.46038720026135,0.753886728302389,4.33694453351416e-23,"***"
+"228","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","seasonSeptember",NA,1.54695848183834,0.413700078968153,0.000184516051794354,"***"
+"229","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","Model","Ferrari's R2: 0.120977878019888",NA,NA,NA,NA
+"230","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","season",NA,NA,NA,0.0150035202712568,"*"
+"231","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","(Intercept)",NA,-7.08851849584876,0.627325543105055,1.31839072341376e-29,"***"
+"232","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","seasonSeptember",NA,0.995005593764165,0.409081123888881,0.0150035202712568,"*"
+"233","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","Model","Ferrari's R2: 0.429685949701875",NA,NA,NA,NA
+"234","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","season",NA,NA,NA,1.52909821954892e-13,"***"
+"235","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","(Intercept)",NA,-9.0873346418263,0.484063537469404,1.25540836694921e-78,"***"
+"236","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","seasonSeptember",NA,3.27502103375698,0.443493221253465,1.52909821954891e-13,"***"
+"237","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","Model","Ferrari's R2: 0.291044177017537",NA,NA,NA,NA
+"238","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","season",NA,NA,NA,3.07095982969576e-12,"***"
+"239","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","(Intercept)",NA,-9.00658395816908,0.468195990501271,1.82174897482831e-82,"***"
+"240","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","seasonSeptember",NA,3.03756083091097,0.4355276855484,3.07095982969577e-12,"***"
+"241","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","Model","Ferrari's R2: 0.0909027207049985",NA,NA,NA,NA
+"242","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","season",NA,NA,NA,0.659866229970807,"ns"
+"243","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","(Intercept)",NA,-6.72296297971005,1.10853644342183,1.32183847966925e-09,"***"
+"244","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","seasonSeptember",NA,0.179761822249582,0.408458748727896,0.659866229970807,"ns"
+"245","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","Model","Ferrari's R2: 0.00986029021260949",NA,NA,NA,NA
+"246","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","season",NA,NA,NA,0.68974583929852,"ns"
+"247","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","(Intercept)",NA,-6.57044039545479,0.877152862335756,6.85361448576976e-14,"***"
+"248","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","seasonSeptember",NA,-0.16282419137689,0.407876225454519,0.68974583929852,"ns"
+"249","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","Model","Ferrari's R2: 0.856249936813886",NA,NA,NA,NA
+"250","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","season",NA,NA,NA,1.15487929665577e-14,"***"
+"251","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","(Intercept)",NA,-9.47295896560436,0.506628293426803,5.13526242033942e-78,"***"
+"252","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","seasonSeptember",NA,3.45525072991223,0.447517680832276,1.15487929665577e-14,"***"
+"253","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","Model","Ferrari's R2: 0.134323425139168",NA,NA,NA,NA
+"254","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","season",NA,NA,NA,0.261281591379227,"ns"
+"255","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","(Intercept)",NA,-6.97008250860272,0.958994807867791,3.64544138456532e-13,"***"
+"256","glmm_beta formula for season","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","seasonSeptember",NA,0.45887340453421,0.408480344677306,0.261281591379227,"ns"
+"257","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","Model","Ferrari's R2: 0.000828215245350613",NA,NA,NA,NA
+"258","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","season",NA,NA,NA,0.941426670942268,"ns"
+"259","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","(Intercept)",NA,-6.74019286166302,1.01851463430922,3.64906602802934e-11,"***"
+"260","glmm_beta formula for season","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","seasonSeptember",NA,-0.0299926857666166,0.408192358053299,0.941426670942268,"ns"
+"261","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","Model","Ferrari's R2: 0.0227852470231169",NA,NA,NA,NA
+"262","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","season",NA,NA,NA,0.387441834176968,"ns"
+"263","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","(Intercept)",NA,-6.98044563079289,0.727311582415516,8.1827539825563e-22,"***"
+"264","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","seasonSeptember",NA,0.351701350852805,0.40693650874369,0.387441834176968,"ns"
+"265","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","Model","Ferrari's R2: 0.0787926955626355",NA,NA,NA,NA
+"266","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","season",NA,NA,NA,0.330677951968578,"ns"
+"267","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","(Intercept)",NA,-6.61524280062,0.913997648496441,4.56350060397591e-13,"***"
+"268","glmm_beta formula for season","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","seasonSeptember",NA,-0.39713902934628,0.408264553450997,0.330677951968578,"ns"
+"269","glmm_beta formula for season","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","Model","Ferrari's R2: 0.0133357375485996",NA,NA,NA,NA
+"270","glmm_beta formula for season","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","season",NA,NA,NA,0.791408798259974,"ns"
+"271","glmm_beta formula for season","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","(Intercept)",NA,-6.95760274545397,1.04336723166201,2.58585723699766e-11,"***"
+"272","glmm_beta formula for season","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","seasonSeptember",NA,0.107958684092794,0.408189686221612,0.791408798259974,"ns"
+"273","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","Model","Ferrari's R2: 0.054872378005724",NA,NA,NA,NA
+"274","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","season",NA,NA,NA,0.274626805629938,"ns"
+"275","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","(Intercept)",NA,-7.15228310549437,0.817637916744928,2.1814217417085e-18,"***"
+"276","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","seasonSeptember",NA,0.445581743026905,0.407866542823917,0.274626805629938,"ns"
+"277","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","Model","Ferrari's R2: 0.000385222639687995",NA,NA,NA,NA
+"278","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","season",NA,NA,NA,0.951089288893501,"ns"
+"279","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","(Intercept)",NA,-6.89966564577048,0.965655250992916,8.99559518545352e-13,"***"
+"280","glmm_beta formula for season","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","seasonSeptember",NA,-0.02502560532074,0.407988956354007,0.951089288893501,"ns"

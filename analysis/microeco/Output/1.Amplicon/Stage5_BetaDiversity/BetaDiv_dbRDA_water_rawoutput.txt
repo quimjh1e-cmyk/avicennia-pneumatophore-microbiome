@@ -1,0 +1,18 @@
+    r.squared adj.r.squared 
+    0.4553840     0.2631666 
+
+***VECTORS
+
+                    dbRDA1   dbRDA2     r2 Pr(>r)    
+water_COND        -0.31600  0.94876 0.6391  0.001 ***
+water_TDS         -0.41082  0.91172 0.6188  0.001 ***
+water_ORP          0.40052 -0.91629 0.5616  0.002 ** 
+water_pH          -0.50678 -0.86208 0.2579  0.048 *  
+water_salinity    -0.04248  0.99910 0.6319  0.001 ***
+water_temperature  0.76027  0.64960 0.8986  0.001 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Permutation: free
+Number of permutations: 999
+
+

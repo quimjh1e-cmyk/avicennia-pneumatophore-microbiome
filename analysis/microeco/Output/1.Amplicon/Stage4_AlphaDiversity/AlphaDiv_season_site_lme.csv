@@ -1,0 +1,81 @@
+"","Method","Measure","Factors","R2","Estimate","Std.Error","P.unadj","Significance"
+"1","lme formula for season+site+(1|`transect-position`)","Observed","Model","Conditional R2: NA; Marginal R2: 0.514367587264655",NA,NA,NA,NA
+"2","lme formula for season+site+(1|`transect-position`)","Observed","season",NA,NA,NA,7.11294459960845e-05,"***"
+"3","lme formula for season+site+(1|`transect-position`)","Observed","site",NA,NA,NA,0.780166014359897,"ns"
+"4","lme formula for season+site+(1|`transect-position`)","Observed","<none>",NA,NA,NA,NA,NA
+"5","lme formula for season+site+(1|`transect-position`)","Observed","(1 | `transect-position`)",NA,NA,NA,1,"ns"
+"6","lme formula for season+site+(1|`transect-position`)","Observed","(Intercept)",NA,1527.625,96.2382194913903,3.59486096266591e-13,"***"
+"7","lme formula for season+site+(1|`transect-position`)","Observed","seasonSeptember",NA,-547.583333333334,111.126323859369,7.11294459960845e-05,"***"
+"8","lme formula for season+site+(1|`transect-position`)","Observed","siteEsteroZacatecas",NA,-31.4166666666671,111.126323859369,0.780166014359897,"ns"
+"9","lme formula for season+site+(1|`transect-position`)","Chao1","Model","Conditional R2: NA; Marginal R2: 0.47843878730462",NA,NA,NA,NA
+"10","lme formula for season+site+(1|`transect-position`)","Chao1","season",NA,NA,NA,0.000157764391928359,"***"
+"11","lme formula for season+site+(1|`transect-position`)","Chao1","site",NA,NA,NA,0.924233307483082,"ns"
+"12","lme formula for season+site+(1|`transect-position`)","Chao1","<none>",NA,NA,NA,NA,NA
+"13","lme formula for season+site+(1|`transect-position`)","Chao1","(1 | `transect-position`)",NA,NA,NA,1,"ns"
+"14","lme formula for season+site+(1|`transect-position`)","Chao1","(Intercept)",NA,1579.2356545068,104.466807921175,9.25984252898396e-13,"***"
+"15","lme formula for season+site+(1|`transect-position`)","Chao1","seasonSeptember",NA,-553.957934014254,120.627879349342,0.000157764391928359,"***"
+"16","lme formula for season+site+(1|`transect-position`)","Chao1","siteEsteroZacatecas",NA,-11.6106397066703,120.627879349342,0.924233307483082,"ns"
+"17","lme formula for season+site+(1|`transect-position`)","ACE","Model","Conditional R2: NA; Marginal R2: 0.484840971137611",NA,NA,NA,NA
+"18","lme formula for season+site+(1|`transect-position`)","ACE","season",NA,NA,NA,0.000137167660164452,"***"
+"19","lme formula for season+site+(1|`transect-position`)","ACE","site",NA,NA,NA,0.904932665398564,"ns"
+"20","lme formula for season+site+(1|`transect-position`)","ACE","<none>",NA,NA,NA,NA,NA
+"21","lme formula for season+site+(1|`transect-position`)","ACE","(1 | `transect-position`)",NA,NA,NA,1,"ns"
+"22","lme formula for season+site+(1|`transect-position`)","ACE","(Intercept)",NA,1571.64421454633,102.611717871022,7.18864086900107e-13,"***"
+"23","lme formula for season+site+(1|`transect-position`)","ACE","seasonSeptember",NA,-551.077405037593,118.485805869689,0.000137167660164452,"***"
+"24","lme formula for season+site+(1|`transect-position`)","ACE","siteEsteroZacatecas",NA,-14.3229514568209,118.485805869689,0.904932665398564,"ns"
+"25","lme formula for season+site+(1|`transect-position`)","Shannon","Model","Conditional R2: NA; Marginal R2: 0.488119965052314",NA,NA,NA,NA
+"26","lme formula for season+site+(1|`transect-position`)","Shannon","season",NA,NA,NA,0.000142229642991438,"***"
+"27","lme formula for season+site+(1|`transect-position`)","Shannon","site",NA,NA,NA,0.513441196494547,"ns"
+"28","lme formula for season+site+(1|`transect-position`)","Shannon","<none>",NA,NA,NA,NA,NA
+"29","lme formula for season+site+(1|`transect-position`)","Shannon","(1 | `transect-position`)",NA,NA,NA,0.999999883508083,"ns"
+"30","lme formula for season+site+(1|`transect-position`)","Shannon","(Intercept)",NA,6.53004136476134,0.147162310823776,3.042168422503e-22,"***"
+"31","lme formula for season+site+(1|`transect-position`)","Shannon","seasonSeptember",NA,-0.787751528376733,0.169928399537349,0.000142229642991438,"***"
+"32","lme formula for season+site+(1|`transect-position`)","Shannon","siteEsteroZacatecas",NA,-0.112960886149343,0.169928399537349,0.513441196494547,"ns"
+"33","lme formula for season+site+(1|`transect-position`)","Simpson","Model","Conditional R2: NA; Marginal R2: 0.229937084145373",NA,NA,NA,NA
+"34","lme formula for season+site+(1|`transect-position`)","Simpson","season",NA,NA,NA,0.0159813851803864,"*"
+"35","lme formula for season+site+(1|`transect-position`)","Simpson","site",NA,NA,NA,0.979217195445862,"ns"
+"36","lme formula for season+site+(1|`transect-position`)","Simpson","<none>",NA,NA,NA,NA,NA
+"37","lme formula for season+site+(1|`transect-position`)","Simpson","(1 | `transect-position`)",NA,NA,NA,0.999999644111316,"ns"
+"38","lme formula for season+site+(1|`transect-position`)","Simpson","(Intercept)",NA,0.994786448223734,0.00184816026725126,5.85940861789375e-45,"***"
+"39","lme formula for season+site+(1|`transect-position`)","Simpson","seasonSeptember",NA,-0.00559232426303898,0.00213407165560617,0.0159813851803864,"*"
+"40","lme formula for season+site+(1|`transect-position`)","Simpson","siteEsteroZacatecas",NA,-5.6259259259525e-05,0.00213407165560617,0.979217195445862,"ns"
+"41","lme formula for season+site+(1|`transect-position`)","InvSimpson","Model","Conditional R2: NA; Marginal R2: 0.439615607667396",NA,NA,NA,NA
+"42","lme formula for season+site+(1|`transect-position`)","InvSimpson","season",NA,NA,NA,0.00126759977679697,"**"
+"43","lme formula for season+site+(1|`transect-position`)","InvSimpson","site",NA,NA,NA,0.0529242890372798,"ns"
+"44","lme formula for season+site+(1|`transect-position`)","InvSimpson","<none>",NA,NA,NA,NA,NA
+"45","lme formula for season+site+(1|`transect-position`)","InvSimpson","(1 | `transect-position`)",NA,NA,NA,1,"ns"
+"46","lme formula for season+site+(1|`transect-position`)","InvSimpson","(Intercept)",NA,342.573469536737,40.7030384730031,3.61632320328023e-08,"***"
+"47","lme formula for season+site+(1|`transect-position`)","InvSimpson","seasonSeptember",NA,-174.821721822031,46.9998204384481,0.00126759977679697,"**"
+"48","lme formula for season+site+(1|`transect-position`)","InvSimpson","siteEsteroZacatecas",NA,-96.4085745569198,46.9998204384481,0.0529242890372798,"ns"
+"49","lme formula for season+site+(1|`transect-position`)","Fisher","Model","Conditional R2: NA; Marginal R2: 0.511297069888319",NA,NA,NA,NA
+"50","lme formula for season+site+(1|`transect-position`)","Fisher","season",NA,NA,NA,7.64976396332292e-05,"***"
+"51","lme formula for season+site+(1|`transect-position`)","Fisher","site",NA,NA,NA,0.774379305179206,"ns"
+"52","lme formula for season+site+(1|`transect-position`)","Fisher","<none>",NA,NA,NA,NA,NA
+"53","lme formula for season+site+(1|`transect-position`)","Fisher","(1 | `transect-position`)",NA,NA,NA,1,"ns"
+"54","lme formula for season+site+(1|`transect-position`)","Fisher","(Intercept)",NA,380.3884004551,28.7629346761333,1.18850293111953e-11,"***"
+"55","lme formula for season+site+(1|`transect-position`)","Fisher","seasonSeptember",NA,-162.636664015723,33.2125761558984,7.64976396332294e-05,"***"
+"56","lme formula for season+site+(1|`transect-position`)","Fisher","siteEsteroZacatecas",NA,-9.64402190380598,33.2125761558984,0.774379305179206,"ns"
+"57","lme formula for season+site+(1|`transect-position`)","Pielou","Model","Conditional R2: NA; Marginal R2: 0.373935088326818",NA,NA,NA,NA
+"58","lme formula for season+site+(1|`transect-position`)","Pielou","season",NA,NA,NA,0.00152115791102853,"**"
+"59","lme formula for season+site+(1|`transect-position`)","Pielou","site",NA,NA,NA,0.501692395910233,"ns"
+"60","lme formula for season+site+(1|`transect-position`)","Pielou","<none>",NA,NA,NA,NA,NA
+"61","lme formula for season+site+(1|`transect-position`)","Pielou","(1 | `transect-position`)",NA,NA,NA,0.999999904884748,"ns"
+"62","lme formula for season+site+(1|`transect-position`)","Pielou","(Intercept)",NA,0.889827858456985,0.0124424767973573,1.44115019344322e-26,"***"
+"63","lme formula for season+site+(1|`transect-position`)","Pielou","seasonSeptember",NA,-0.0523374913804486,0.0143673346566798,0.00152115791102853,"**"
+"64","lme formula for season+site+(1|`transect-position`)","Pielou","siteEsteroZacatecas",NA,-0.00982172370483822,0.0143673346566798,0.501692395910233,"ns"
+"65","lme formula for season+site+(1|`transect-position`)","Coverage","Model","Conditional R2: NA; Marginal R2: 0.169695957969001",NA,NA,NA,NA
+"66","lme formula for season+site+(1|`transect-position`)","Coverage","season",NA,NA,NA,0.110346059563766,"ns"
+"67","lme formula for season+site+(1|`transect-position`)","Coverage","site",NA,NA,NA,0.180227460004458,"ns"
+"68","lme formula for season+site+(1|`transect-position`)","Coverage","<none>",NA,NA,NA,NA,NA
+"69","lme formula for season+site+(1|`transect-position`)","Coverage","(1 | `transect-position`)",NA,NA,NA,0.999999515005476,"ns"
+"70","lme formula for season+site+(1|`transect-position`)","Coverage","(Intercept)",NA,0.994257936507937,0.000758618847326882,4.48670235490324e-53,"***"
+"71","lme formula for season+site+(1|`transect-position`)","Coverage","seasonSeptember",NA,0.00146031746031679,0.000875977591432997,0.110346059563766,"ns"
+"72","lme formula for season+site+(1|`transect-position`)","Coverage","siteEsteroZacatecas",NA,-0.00121428571428606,0.000875977591432997,0.180227460004458,"ns"
+"73","lme formula for season+site+(1|`transect-position`)","PD","Model","Conditional R2: 0.518139773737763; Marginal R2: 0.516441915944192",NA,NA,NA,NA
+"74","lme formula for season+site+(1|`transect-position`)","PD","season",NA,NA,NA,0.000198274897556832,"***"
+"75","lme formula for season+site+(1|`transect-position`)","PD","site",NA,NA,NA,0.215628553525146,"ns"
+"76","lme formula for season+site+(1|`transect-position`)","PD","<none>",NA,NA,NA,NA,NA
+"77","lme formula for season+site+(1|`transect-position`)","PD","(1 | `transect-position`)",NA,NA,NA,0.984622101111637,"ns"
+"78","lme formula for season+site+(1|`transect-position`)","PD","(Intercept)",NA,151.815408685792,7.90539918797948,2.49571670482776e-14,"***"
+"79","lme formula for season+site+(1|`transect-position`)","PD","seasonSeptember",NA,-43.6646797044167,9.10700112656387,0.000198274897556832,"***"
+"80","lme formula for season+site+(1|`transect-position`)","PD","siteEsteroZacatecas",NA,-11.74127927725,9.10700112656387,0.215628553525146,"ns"

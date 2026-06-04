@@ -1,0 +1,50 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# R generated outputs (if regenerated locally)
+Rplots.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE*.md
+
+# Large data files (should be in NCBI SRA or downloaded separately)
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+
+# QIIME2 artifacts (large intermediate files — reproducible from scripts)
+# Note: small QZA files in analysis/microeco/Input/ are tracked (needed by R scripts)
+data/**/*.qza
+data/**/*.qzv
+
+# SILVA database (download separately)
+silva-*.qza
+
+# R binary objects (reproducible from scripts)
+*.RData
+
+# Generated HTML reports
+*.html
+
+# Temporary files
+tmp_*/
+*.log

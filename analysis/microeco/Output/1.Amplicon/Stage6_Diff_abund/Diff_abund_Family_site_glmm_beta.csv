@@ -1,0 +1,281 @@
+"","Method","Taxa","Factors","R2","Estimate","Std.Error","P.unadj","Significance"
+"1","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","Model","Ferrari's R2: 0.035573599793339",NA,NA,NA,NA
+"2","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","site",NA,NA,NA,0.351639178789567,"ns"
+"3","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","(Intercept)",NA,-1.97239688798648,0.109630069821556,2.27594150525125e-72,"***"
+"4","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae","siteEsteroZacatecas",NA,-0.146706074755932,0.157508896818354,0.351639178789567,"ns"
+"5","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","Model","Ferrari's R2: 0.0729201071174252",NA,NA,NA,NA
+"6","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","site",NA,NA,NA,0.163255035867198,"ns"
+"7","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","(Intercept)",NA,-1.93681385010693,0.124684968614573,2.05320728793673e-54,"***"
+"8","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae","siteEsteroZacatecas",NA,-0.253806574931563,0.182043651627568,0.163255035867198,"ns"
+"9","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","Model","Ferrari's R2: 0.023587751388047",NA,NA,NA,NA
+"10","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","site",NA,NA,NA,0.495558963958803,"ns"
+"11","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","(Intercept)",NA,-2.59860880150253,0.254832434673968,2.03811512915793e-24,"***"
+"12","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Flavobacteriaceae","siteEsteroZacatecas",NA,0.21717002984026,0.318667561010401,0.495558963958803,"ns"
+"13","glmm_beta formula for site","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","Model","Ferrari's R2: 0.0870062911966729",NA,NA,NA,NA
+"14","glmm_beta formula for site","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","site",NA,NA,NA,0.122505421775273,"ns"
+"15","glmm_beta formula for site","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","(Intercept)",NA,-2.75556517961367,0.163682320946617,1.35561369225629e-63,"***"
+"16","glmm_beta formula for site","k__Bacteria|p__Rhodothermota|c__Rhodothermia|o__Rhodothermales|f__Rhodothermaceae","siteEsteroZacatecas",NA,0.326735828261162,0.211569559983712,0.122505421775273,"ns"
+"17","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","Model","Ferrari's R2: 0.688560009962446",NA,NA,NA,NA
+"18","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","site",NA,NA,NA,1.42120246917299e-14,"***"
+"19","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","(Intercept)",NA,-3.17519499965296,0.0796714648462819,0,"***"
+"20","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Cyclobacteriaceae","siteEsteroZacatecas",NA,0.751849345015169,0.0977133862289462,1.42120246917299e-14,"***"
+"21","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","Model","Ferrari's R2: 0.181815924814641",NA,NA,NA,NA
+"22","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","site",NA,NA,NA,0.0208123370882992,"*"
+"23","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","(Intercept)",NA,-2.43501157294698,0.239143477980506,2.38066470072017e-24,"***"
+"24","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Euzebyales|f__Euzebyaceae","siteEsteroZacatecas",NA,-0.799553340953437,0.345921587732875,0.0208123370882991,"*"
+"25","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","Model","Ferrari's R2: 0.215393166536805",NA,NA,NA,NA
+"26","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","site",NA,NA,NA,0.0121829703447287,"*"
+"27","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","(Intercept)",NA,-2.65340035052824,0.187719359217856,2.31357839925394e-45,"***"
+"28","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Nitriliruptorales|f__Nitriliruptoraceae","siteEsteroZacatecas",NA,-0.72467987842741,0.289085664961919,0.0121829703447287,"*"
+"29","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","Model","Ferrari's R2: 0.997109715641674",NA,NA,NA,NA
+"30","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","site",NA,NA,NA,1.49202188437072e-16,"***"
+"31","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","(Intercept)",NA,-6.12878956473061,0.495431577373997,3.76959692651392e-35,"***"
+"32","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Nostocaceae","siteEsteroZacatecas",NA,3.74791389125419,0.45389966671911,1.49202188437072e-16,"***"
+"33","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","Model","Ferrari's R2: 0.0980258003819155",NA,NA,NA,NA
+"34","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","site",NA,NA,NA,0.144370743488369,"ns"
+"35","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","(Intercept)",NA,-3.37288334215047,0.203062414493764,5.89126859844504e-62,"***"
+"36","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Chitinophagales|f__Saprospiraceae","siteEsteroZacatecas",NA,0.370610050217372,0.253893532598526,0.144370743488369,"ns"
+"37","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","Model","Ferrari's R2: 0.28483067095665",NA,NA,NA,NA
+"38","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","site",NA,NA,NA,0.000652783369349095,"***"
+"39","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","(Intercept)",NA,-2.87699437144599,0.139579841786634,2.15000635972187e-94,"***"
+"40","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhizobiaceae","siteEsteroZacatecas",NA,-0.784235988653087,0.230070381803476,0.000652783369349096,"***"
+"41","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","Model","Ferrari's R2: 0.0115955307970024",NA,NA,NA,NA
+"42","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","site",NA,NA,NA,0.610690247121738,"ns"
+"43","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","(Intercept)",NA,-3.61734547409769,0.145138092844436,4.14199010307201e-137,"***"
+"44","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Ilumatobacteraceae","siteEsteroZacatecas",NA,0.0992424492895771,0.194941477857881,0.610690247121738,"ns"
+"45","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","Model","Ferrari's R2: 0.00912508219549205",NA,NA,NA,NA
+"46","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","site",NA,NA,NA,0.695741969693522,"ns"
+"47","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","(Intercept)",NA,-3.96670702572131,0.324062167336222,1.88692807822784e-34,"***"
+"48","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Rubrobacteria|o__Rubrobacterales|f__Rubrobacteriaceae","siteEsteroZacatecas",NA,0.141580902427652,0.362030265163808,0.695741969693522,"ns"
+"49","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","Model","Ferrari's R2: 0.386837571705784",NA,NA,NA,NA
+"50","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","site",NA,NA,NA,2.10186345042933e-13,"***"
+"51","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","(Intercept)",NA,-3.38382165733001,0.231959914010328,3.35074034164247e-48,"***"
+"52","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Propionibacteriales|f__Nocardioidaceae","siteEsteroZacatecas",NA,-3.25634346010965,0.44351348477248,2.10186345042933e-13,"***"
+"53","glmm_beta formula for site","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","Model","Ferrari's R2: 0.150956689073723",NA,NA,NA,NA
+"54","glmm_beta formula for site","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","site",NA,NA,NA,2.3525840811625e-08,"***"
+"55","glmm_beta formula for site","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","(Intercept)",NA,-3.53215689645097,0.198283418509961,5.53505487021176e-71,"***"
+"56","glmm_beta formula for site","k__Bacteria|p__Myxococcota|c__Polyangiia|o__Polyangiales|f__Sandaracinaceae","siteEsteroZacatecas",NA,-2.18148281114869,0.390677537601268,2.3525840811625e-08,"***"
+"57","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","Model","Ferrari's R2: 0.198930960666559",NA,NA,NA,NA
+"58","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","site",NA,NA,NA,0.0212474117753049,"*"
+"59","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","(Intercept)",NA,-4.63711383097372,0.219661138544247,6.395740544994e-99,"***"
+"60","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Xenococcaceae","siteEsteroZacatecas",NA,0.601188761864105,0.260982576359174,0.0212474117753048,"*"
+"61","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","Model","Ferrari's R2: 0.440478561020016",NA,NA,NA,NA
+"62","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","site",NA,NA,NA,0.000559880891230347,"***"
+"63","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","(Intercept)",NA,-4.16473503745254,0.203001334720788,1.55583820926171e-93,"***"
+"64","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Cellvibrionaceae","siteEsteroZacatecas",NA,-1.14159791933182,0.330865338530069,0.000559880891230349,"***"
+"65","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","Model","Ferrari's R2: 0.0394335827249523",NA,NA,NA,NA
+"66","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","site",NA,NA,NA,0.0247209798796674,"*"
+"67","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","(Intercept)",NA,-4.2618058871531,0.323586407998848,1.29676687461714e-39,"***"
+"68","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Pirellulales|f__Pirellulaceae","siteEsteroZacatecas",NA,-0.867193501756716,0.386151286479205,0.0247209798796673,"*"
+"69","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","Model","Ferrari's R2: 0.358291159496137",NA,NA,NA,NA
+"70","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","site",NA,NA,NA,0.000174433787107626,"***"
+"71","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","(Intercept)",NA,-5.1224406994732,0.191624888279762,2.0207954924503e-157,"***"
+"72","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__|f__Neomegalonemataceae","siteEsteroZacatecas",NA,0.838975872457789,0.223522667112558,0.000174433787107625,"***"
+"73","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","Model","Ferrari's R2: 0.0881776959775634",NA,NA,NA,NA
+"74","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","site",NA,NA,NA,0.000114158833156288,"***"
+"75","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","(Intercept)",NA,-4.1767251222364,0.2574002041659,3.27186220468362e-59,"***"
+"76","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Micrococcales|f__Intrasporangiaceae","siteEsteroZacatecas",NA,-1.48836105124785,0.385751458389501,0.000114158833156288,"***"
+"77","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","Model","Ferrari's R2: 0.0567745158624612",NA,NA,NA,NA
+"78","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","site",NA,NA,NA,0.286091465787495,"ns"
+"79","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","(Intercept)",NA,-4.8959678448443,0.260603061068417,9.63552448278516e-79,"***"
+"80","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Steroidobacterales|f__Woeseiaceae","siteEsteroZacatecas",NA,0.32977833601715,0.309147352021109,0.286091465787494,"ns"
+"81","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","Model","Ferrari's R2: 1.79097435106696e-05",NA,NA,NA,NA
+"82","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","site",NA,NA,NA,0.984956793180765,"ns"
+"83","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","(Intercept)",NA,-4.79563773718102,0.267823208108227,1.05909181544261e-71,"***"
+"84","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfocapsaceae","siteEsteroZacatecas",NA,0.00615763701980171,0.326578798992053,0.984956793180765,"ns"
+"85","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","Model","Ferrari's R2: 9.55537913858634e-05",NA,NA,NA,NA
+"86","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","site",NA,NA,NA,0.942589502316532,"ns"
+"87","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","(Intercept)",NA,-4.80003121796223,0.580501398815693,1.35350698130356e-16,"***"
+"88","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Vibrionaceae","siteEsteroZacatecas",NA,-0.0292681848402307,0.406414576237587,0.942589502316532,"ns"
+"89","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","Model","Ferrari's R2: 0.199470232100163",NA,NA,NA,NA
+"90","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","site",NA,NA,NA,3.87733911772508e-12,"***"
+"91","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","(Intercept)",NA,-4.29836759254891,0.187753856074185,5.37705174510987e-116,"***"
+"92","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinobacteraceae","siteEsteroZacatecas",NA,-2.94141834917323,0.423738923039488,3.87733911772508e-12,"***"
+"93","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","Model","Ferrari's R2: 0.516443034945181",NA,NA,NA,NA
+"94","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","site",NA,NA,NA,2.12385979061046e-06,"***"
+"95","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","(Intercept)",NA,-5.66639503643199,0.206354900041227,5.35595006772024e-166,"***"
+"96","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Aggregatilineales|f__A4b","siteEsteroZacatecas",NA,1.10208435344745,0.232445122734201,2.12385979061046e-06,"***"
+"97","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","Model","Ferrari's R2: 0.0624628323395147",NA,NA,NA,NA
+"98","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","site",NA,NA,NA,0.00210090910538736,"**"
+"99","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","(Intercept)",NA,-4.55784025594611,0.28480732467871,1.21293026008103e-57,"***"
+"100","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobacteria|o__Desulfobacterales|f__Desulfosarcinaceae","siteEsteroZacatecas",NA,-1.17893837372753,0.383321823164945,0.00210090910538737,"**"
+"101","glmm_beta formula for site","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","Model","Ferrari's R2: 0.0204510250921147",NA,NA,NA,NA
+"102","glmm_beta formula for site","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","site",NA,NA,NA,0.509346987628489,"ns"
+"103","glmm_beta formula for site","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","(Intercept)",NA,-4.88751773687115,0.271327260443306,1.53028345659269e-72,"***"
+"104","glmm_beta formula for site","k__Bacteria|p__Acidobacteriota|c__Thermoanaerobaculia|o__Thermoanaerobaculales|f__Thermoanaerobaculaceae","siteEsteroZacatecas",NA,-0.22277902498831,0.337618233318093,0.509346987628489,"ns"
+"105","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","Model","Ferrari's R2: 0.104685899271742",NA,NA,NA,NA
+"106","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","site",NA,NA,NA,0.0144413512679397,"*"
+"107","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","(Intercept)",NA,-4.64072038501669,0.507368153277627,5.87248418895762e-20,"***"
+"108","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Prolixibacteraceae","siteEsteroZacatecas",NA,-1.00174771286057,0.409529595224223,0.0144413512679397,"*"
+"109","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","Model","Ferrari's R2: 0.438120708875684",NA,NA,NA,NA
+"110","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","site",NA,NA,NA,6.92062296689529e-05,"***"
+"111","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","(Intercept)",NA,-6.22782712914907,0.658181552152754,3.01611596992993e-21,"***"
+"112","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae","siteEsteroZacatecas",NA,1.65690637055541,0.41641293535047,6.92062296689528e-05,"***"
+"113","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","Model","Ferrari's R2: 0.160837757208534",NA,NA,NA,NA
+"114","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","site",NA,NA,NA,5.87779301460169e-05,"***"
+"115","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","(Intercept)",NA,-6.26618188305033,0.466323361656812,3.64950279889263e-41,"***"
+"116","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Alteromonadaceae","siteEsteroZacatecas",NA,1.64418381848843,0.409238757783487,5.87779301460168e-05,"***"
+"117","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","Model","Ferrari's R2: 0.840821919526166",NA,NA,NA,NA
+"118","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","site",NA,NA,NA,3.63534236213256e-06,"***"
+"119","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","(Intercept)",NA,-6.67129981113586,0.676092932939594,5.76219161211192e-23,"***"
+"120","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Phormidesmiales|f__Phormidesmiaceae","siteEsteroZacatecas",NA,1.93741765357397,0.418339373759801,3.63534236213256e-06,"***"
+"121","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","Model","Ferrari's R2: 0.0531030592309165",NA,NA,NA,NA
+"122","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","site",NA,NA,NA,0.00560001153701855,"**"
+"123","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","(Intercept)",NA,-5.95600478198359,0.396062887036491,4.13690988573192e-51,"***"
+"124","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Halieaceae","siteEsteroZacatecas",NA,1.05924110984633,0.382352436072096,0.00560001153701854,"**"
+"125","glmm_beta formula for site","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","Model","Ferrari's R2: 0.13456662354592",NA,NA,NA,NA
+"126","glmm_beta formula for site","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","site",NA,NA,NA,0.132452521703587,"ns"
+"127","glmm_beta formula for site","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","(Intercept)",NA,-5.08976730928766,0.816608548610183,4.58136765400696e-10,"***"
+"128","glmm_beta formula for site","k__Bacteria|p__Campylobacterota|c__Campylobacteria|o__Campylobacterales|f__Sulfurovaceae","siteEsteroZacatecas",NA,-0.616709916028619,0.409910052792449,0.132452521703586,"ns"
+"129","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","Model","Ferrari's R2: 0.120580450569896",NA,NA,NA,NA
+"130","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","site",NA,NA,NA,5.64350879687755e-06,"***"
+"131","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","(Intercept)",NA,-4.82669339558386,0.270148734693295,2.13919073415189e-71,"***"
+"132","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Kiloniellales|f__Kiloniellaceae","siteEsteroZacatecas",NA,-1.83480842549938,0.404203085158364,5.64350879687754e-06,"***"
+"133","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","Model","Ferrari's R2: 0.0152124000484695",NA,NA,NA,NA
+"134","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","site",NA,NA,NA,0.386264786375333,"ns"
+"135","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","(Intercept)",NA,-5.65085126332031,0.625049502479585,1.55748688155318e-19,"***"
+"136","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__Rubritaleaceae","siteEsteroZacatecas",NA,0.352121865288015,0.406414328725229,0.386264786375333,"ns"
+"137","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","Model","Ferrari's R2: 0.0522133821759814",NA,NA,NA,NA
+"138","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","site",NA,NA,NA,0.0725395635866395,"ns"
+"139","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","(Intercept)",NA,-5.91953458449328,0.574097913451426,6.28314409539994e-25,"***"
+"140","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Parvularculaceae","siteEsteroZacatecas",NA,0.729855013194101,0.406442151864773,0.0725395635866397,"ns"
+"141","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","Model","Ferrari's R2: 0.064053614585692",NA,NA,NA,NA
+"142","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","site",NA,NA,NA,0.0011947736770871,"**"
+"143","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","(Intercept)",NA,-6.36260740388008,0.390085363906183,8.26918789034168e-60,"***"
+"144","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Microtrichaceae","siteEsteroZacatecas",NA,1.2312857953953,0.380011835002261,0.0011947736770871,"**"
+"145","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","Model","Ferrari's R2: 0.471224608814863",NA,NA,NA,NA
+"146","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","site",NA,NA,NA,0.000821903670712789,"***"
+"147","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","(Intercept)",NA,-5.17695810713723,0.674894892772345,1.70977520808448e-14,"***"
+"148","glmm_beta formula for site","k__Bacteria|p__Thermodesulfobacteriota|c__Desulfobulbia|o__Desulfobulbales|f__Desulfobulbaceae","siteEsteroZacatecas",NA,-1.38188416395989,0.413080930992261,0.000821903670712788,"***"
+"149","glmm_beta formula for site","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","Model","Ferrari's R2: 0.0374143895147007",NA,NA,NA,NA
+"150","glmm_beta formula for site","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","site",NA,NA,NA,0.0150131213164266,"*"
+"151","glmm_beta formula for site","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","(Intercept)",NA,-6.24301391099953,0.384965017115519,3.81837796045762e-59,"***"
+"152","glmm_beta formula for site","k__Bacteria|p__Deinococcota|c__Deinococci|o__Deinococcales|f__Trueperaceae","siteEsteroZacatecas",NA,0.917328792202414,0.377181440189716,0.0150131213164266,"*"
+"153","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","Model","Ferrari's R2: 0.0378111360786391",NA,NA,NA,NA
+"154","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","site",NA,NA,NA,0.0984391364399528,"ns"
+"155","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","(Intercept)",NA,-6.08915797146221,0.494061031865987,6.66845622700421e-35,"***"
+"156","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Anaerolineales|f__Anaerolineaceae","siteEsteroZacatecas",NA,0.661542247374561,0.400335834207479,0.0984391364399529,"ns"
+"157","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","Model","Ferrari's R2: 0.0681130011453033",NA,NA,NA,NA
+"158","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","site",NA,NA,NA,0.000295179029882376,"***"
+"159","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","(Intercept)",NA,-6.61614466039687,0.381854038886908,2.97520898323843e-67,"***"
+"160","glmm_beta formula for site","k__Bacteria|p__Chloroflexota|c__Anaerolineae|o__Caldilineales|f__Caldilineaceae","siteEsteroZacatecas",NA,1.3615681843852,0.376176332454778,0.000295179029882376,"***"
+"161","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","Model","Ferrari's R2: 0.0217500546146759",NA,NA,NA,NA
+"162","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","site",NA,NA,NA,0.17191177109764,"ns"
+"163","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","(Intercept)",NA,-6.05599927414917,0.514971914479606,6.28360094932433e-32,"***"
+"164","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Hyphomonadaceae","siteEsteroZacatecas",NA,0.5485244946831,0.401529799505274,0.17191177109764,"ns"
+"165","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","Model","Ferrari's R2: 0.200769560863261",NA,NA,NA,NA
+"166","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","site",NA,NA,NA,0.00219056620465367,"**"
+"167","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","(Intercept)",NA,-5.3103206662468,0.558501640035865,1.94072257253297e-21,"***"
+"168","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Mycobacteriales|f__Mycobacteriaceae","siteEsteroZacatecas",NA,-1.2622665188347,0.41208788252527,0.00219056620465367,"**"
+"169","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","Model","Ferrari's R2: 0.00161476976135812",NA,NA,NA,NA
+"170","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","site",NA,NA,NA,0.797731074064358,"ns"
+"171","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","(Intercept)",NA,-5.7667571180441,0.66028177671211,2.46295526213707e-18,"***"
+"172","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Gimesiaceae","siteEsteroZacatecas",NA,-0.104166659143957,0.406449127174692,0.797731074064358,"ns"
+"173","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","Model","Ferrari's R2: 0.191375450325225",NA,NA,NA,NA
+"174","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","site",NA,NA,NA,0.00141025650643597,"**"
+"175","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","(Intercept)",NA,-6.72349460604327,0.604406919612179,9.57468828734882e-29,"***"
+"176","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pseudoalteromonadaceae","siteEsteroZacatecas",NA,1.31608494232719,0.412237107960112,0.00141025650643597,"**"
+"177","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","Model","Ferrari's R2: 0.0208998170528651",NA,NA,NA,NA
+"178","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","site",NA,NA,NA,0.241033387187561,"ns"
+"179","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","(Intercept)",NA,-6.14866769085211,0.538163522273765,3.12654544595873e-30,"***"
+"180","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Marinomonadaceae","siteEsteroZacatecas",NA,0.472044645387318,0.402628388542012,0.241033387187561,"ns"
+"181","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","Model","Ferrari's R2: 0.124623204435557",NA,NA,NA,NA
+"182","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","site",NA,NA,NA,0.00421259590809146,"**"
+"183","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","(Intercept)",NA,-5.71706576641904,0.494309650705639,6.14462970835897e-31,"***"
+"184","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Spongiibacteraceae","siteEsteroZacatecas",NA,-1.17290325933533,0.409849915887949,0.00421259590809146,"**"
+"185","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","Model","Ferrari's R2: 0.0148959923480528",NA,NA,NA,NA
+"186","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","site",NA,NA,NA,0.374183437971593,"ns"
+"187","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","(Intercept)",NA,-5.98639215440451,0.592204643770936,5.05740329917392e-24,"***"
+"188","glmm_beta formula for site","k__Bacteria|p__Planctomycetota|c__Planctomycetes|o__Planctomycetales|f__Rubinisphaeraceae","siteEsteroZacatecas",NA,-0.360158641067735,0.405280798464687,0.374183437971593,"ns"
+"189","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","Model","Ferrari's R2: 0.119468830585075",NA,NA,NA,NA
+"190","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","site",NA,NA,NA,0.00658547247897836,"**"
+"191","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","(Intercept)",NA,-6.92034147386533,0.582752450656,1.59123466352333e-32,"***"
+"192","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Verrucomicrobiales|f__DEV007","siteEsteroZacatecas",NA,1.11226188516821,0.409354756349528,0.00658547247897836,"**"
+"193","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","Model","Ferrari's R2: 0.130960284646516",NA,NA,NA,NA
+"194","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","site",NA,NA,NA,0.0275997603024228,"*"
+"195","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","(Intercept)",NA,-5.90337069953521,0.643838275717945,4.7730653492268e-20,"***"
+"196","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidetes_BD2-2","siteEsteroZacatecas",NA,-0.901749843570422,0.409341328945352,0.0275997603024228,"*"
+"197","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","Model","Ferrari's R2: 0.238626733105654",NA,NA,NA,NA
+"198","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","site",NA,NA,NA,5.51405052222762e-12,"***"
+"199","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","(Intercept)",NA,-5.62495002220531,0.204124446769825,3.70149874596984e-167,"***"
+"200","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Devosiaceae","siteEsteroZacatecas",NA,-2.96444480645349,0.430148870449611,5.51405052222762e-12,"***"
+"201","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","Model","Ferrari's R2: 0.00666288599820955",NA,NA,NA,NA
+"202","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","site",NA,NA,NA,0.56147612983235,"ns"
+"203","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","(Intercept)",NA,-6.40459968060066,0.619186367522796,4.47531527816187e-25,"***"
+"204","glmm_beta formula for site","k__Bacteria|p__Verrucomicrobiota|c__Verrucomicrobiia|o__Opitutales|f__Puniceicoccaceae","siteEsteroZacatecas",NA,0.235159037788806,0.404992500805063,0.56147612983235,"ns"
+"205","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","Model","Ferrari's R2: 0.00510274496458664",NA,NA,NA,NA
+"206","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","site",NA,NA,NA,0.605486307800929,"ns"
+"207","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","(Intercept)",NA,-6.40146594752666,0.615293520592112,2.37933179116052e-25,"***"
+"208","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Rhodomicrobiaceae","siteEsteroZacatecas",NA,0.209107847288608,0.404834213447195,0.605486307800929,"ns"
+"209","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","Model","Ferrari's R2: 0.100841641551884",NA,NA,NA,NA
+"210","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","site",NA,NA,NA,0.0118501169375246,"*"
+"211","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","(Intercept)",NA,-5.90995669321205,0.513916272158855,1.3215485407404e-30,"***"
+"212","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudohongiellaceae","siteEsteroZacatecas",NA,-1.02801323621861,0.408496715078415,0.0118501169375246,"*"
+"213","glmm_beta formula for site","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","Model","Ferrari's R2: 0.136617635443241",NA,NA,NA,NA
+"214","glmm_beta formula for site","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","site",NA,NA,NA,2.30719085506657e-05,"***"
+"215","glmm_beta formula for site","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","(Intercept)",NA,-5.8034028538598,0.322696841781628,2.59705750188247e-72,"***"
+"216","glmm_beta formula for site","k__Bacteria|p__Gemmatimonadota|c__Longimicrobiia|o__Longimicrobiales|f__Longimicrobiaceae","siteEsteroZacatecas",NA,-1.73814232196156,0.410628911467087,2.30719085506657e-05,"***"
+"217","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","Model","Ferrari's R2: 0.242845068286129",NA,NA,NA,NA
+"218","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","site",NA,NA,NA,0.000191796036303721,"***"
+"219","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","(Intercept)",NA,-7.39989560120537,0.597161057476927,2.89501093539409e-35,"***"
+"220","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Cryomorphaceae","siteEsteroZacatecas",NA,1.54614486704451,0.41456226739257,0.000191796036303721,"***"
+"221","glmm_beta formula for site","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","Model","Ferrari's R2: 0.280082781666568",NA,NA,NA,NA
+"222","glmm_beta formula for site","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","site",NA,NA,NA,1.67446978790514e-10,"***"
+"223","glmm_beta formula for site","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","(Intercept)",NA,-5.75657658081512,0.251123571472892,2.72261037003815e-116,"***"
+"224","glmm_beta formula for site","k__Bacteria|p__Balneolota|c__Balneolia|o__Balneolales|f__Balneolaceae","siteEsteroZacatecas",NA,-2.75900812086396,0.431866478400875,1.67446978790514e-10,"***"
+"225","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","Model","Ferrari's R2: 0.000247831883893641",NA,NA,NA,NA
+"226","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","site",NA,NA,NA,0.953760536269671,"ns"
+"227","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","(Intercept)",NA,-6.40907485590005,0.913459393440162,2.27874661480564e-12,"***"
+"228","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Sporichthyaceae","siteEsteroZacatecas",NA,-0.0236629747163005,0.408087505544024,0.953760536269671,"ns"
+"229","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","Model","Ferrari's R2: 0.161409283849935",NA,NA,NA,NA
+"230","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","site",NA,NA,NA,0.00359713592599018,"**"
+"231","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","(Intercept)",NA,-6.04253640944018,0.532472099207452,7.58083856550395e-30,"***"
+"232","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Alcanivoracaceae","siteEsteroZacatecas",NA,-1.19569517310724,0.410682042818514,0.00359713592599019,"**"
+"233","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","Model","Ferrari's R2: 0.199360647677774",NA,NA,NA,NA
+"234","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","site",NA,NA,NA,0.0011089276455974,"**"
+"235","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","(Intercept)",NA,-6.01133759984441,0.530345856053931,8.82840032016585e-30,"***"
+"236","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Acidimicrobiia|o__Microtrichales|f__Iamiaceae","siteEsteroZacatecas",NA,-1.34472836660341,0.412325747068023,0.0011089276455974,"**"
+"237","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","Model","Ferrari's R2: 0.111402387619392",NA,NA,NA,NA
+"238","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","site",NA,NA,NA,0.00531694437435859,"**"
+"239","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","(Intercept)",NA,-6.20297818021065,0.489050009874265,7.27842243076488e-37,"***"
+"240","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Actinobacteria|o__Frankiales|f__Geodermatophilaceae","siteEsteroZacatecas",NA,-1.14007113063303,0.40904153806907,0.0053169443743586,"**"
+"241","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","Model","Ferrari's R2: 0.0909027207049985",NA,NA,NA,NA
+"242","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","site",NA,NA,NA,0.659861678109585,"ns"
+"243","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","(Intercept)",NA,-6.54317602814539,1.10217908100559,2.91026139178664e-09,"***"
+"244","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Flavobacteriales|f__Blattabacteriaceae","siteEsteroZacatecas",NA,-0.179764410269623,0.408458796082536,0.659861678109585,"ns"
+"245","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","Model","Ferrari's R2: 0.844959747698428",NA,NA,NA,NA
+"246","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","site",NA,NA,NA,5.17271341720938e-07,"***"
+"247","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","(Intercept)",NA,-8.17205123582746,0.644121819932386,6.97014290062208e-37,"***"
+"248","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Synechococcales|f__Cyanobiaceae","siteEsteroZacatecas",NA,2.10994864424014,0.420325809593004,5.17271341720938e-07,"***"
+"249","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","Model","Ferrari's R2: 0.0123138444268548",NA,NA,NA,NA
+"250","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","site",NA,NA,NA,0.610498693024367,"ns"
+"251","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","(Intercept)",NA,-6.59050994419906,0.817648414646101,7.60934057703957e-16,"***"
+"252","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae","siteEsteroZacatecas",NA,-0.20761576027577,0.407599837663003,0.610498693024367,"ns"
+"253","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","Model","Ferrari's R2: 0.49745231589324",NA,NA,NA,NA
+"254","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","site",NA,NA,NA,0.0223442519693603,"*"
+"255","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","(Intercept)",NA,-7.28635591316335,0.902542933582718,6.85126901153588e-16,"***"
+"256","glmm_beta formula for site","k__Bacteria|p__Actinomycetota|c__Thermoleophilia|o__Solirubrobacterales|f__Solirubrobacteraceae","siteEsteroZacatecas",NA,0.936133438627278,0.40978245704973,0.0223442519693603,"*"
+"257","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","Model","Ferrari's R2: 0.332046329456605",NA,NA,NA,NA
+"258","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","site",NA,NA,NA,0.128285175951621,"ns"
+"259","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","(Intercept)",NA,-7.11216466929978,0.987614526093005,5.96162786295307e-13,"***"
+"260","glmm_beta formula for site","k__Bacteria|p__Cyanobacteriota|c__Cyanobacteriia|o__Cyanobacteriales|f__Phormidiaceae","siteEsteroZacatecas",NA,0.621816223235075,0.408847798945041,0.128285175951621,"ns"
+"261","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","Model","Ferrari's R2: 0.28381174779555",NA,NA,NA,NA
+"262","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","site",NA,NA,NA,0.000302869839037856,"***"
+"263","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","(Intercept)",NA,-6.29549150472105,0.536903938575344,9.4291766825053e-32,"***"
+"264","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__KI89A_clade","siteEsteroZacatecas",NA,-1.49542795055052,0.413921145143048,0.000302869839037856,"***"
+"265","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","Model","Ferrari's R2: 0.598669926074518",NA,NA,NA,NA
+"266","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","site",NA,NA,NA,0.00279493064733375,"**"
+"267","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","(Intercept)",NA,-7.58370553300876,0.826695759777749,4.57843305067576e-20,"***"
+"268","glmm_beta formula for site","k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Cytophagales|f__Flammeovirgaceae","siteEsteroZacatecas",NA,1.22931230193455,0.411218816586356,0.00279493064733376,"**"
+"269","glmm_beta formula for site","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","Model","Ferrari's R2: 0.262366808317703",NA,NA,NA,NA
+"270","glmm_beta formula for site","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","site",NA,NA,NA,0.231518757488855,"ns"
+"271","glmm_beta formula for site","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","(Intercept)",NA,-7.17540238261368,1.02382192109635,2.40976675664366e-12,"***"
+"272","glmm_beta formula for site","k__Bacteria|p__Bacillota|c__Bacilli|o__Bacillales|f__Bacillaceae","siteEsteroZacatecas",NA,0.488823716792619,0.408559796373599,0.231518757488855,"ns"
+"273","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","Model","Ferrari's R2: 0.5962909120903",NA,NA,NA,NA
+"274","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","site",NA,NA,NA,3.1486764905394e-06,"***"
+"275","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","(Intercept)",NA,-6.34001327114348,0.519984574351416,3.3998901872929e-34,"***"
+"276","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Nitrincolaceae","siteEsteroZacatecas",NA,-1.95249293126326,0.418911225516408,3.1486764905394e-06,"***"
+"277","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","Model","Ferrari's R2: 0.498940812810859",NA,NA,NA,NA
+"278","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","site",NA,NA,NA,0.0167333029871041,"*"
+"279","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","(Intercept)",NA,-6.5350244655983,0.846921568365601,1.19840034551631e-14,"***"
+"280","glmm_beta formula for site","k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Ectothiorhodospirales|f__Ectothiorhodospiraceae","siteEsteroZacatecas",NA,-0.980683219634238,0.409896218071509,0.016733302987104,"*"

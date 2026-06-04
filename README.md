@@ -1,6 +1,6 @@
 # Taxonomic Diversity and Metabolic Potential of Microbial Communities on *Avicennia germinans* Pneumatophores
 
-Master's Thesis (TFM) — Universitat Oberta de Catalunya (UOC), 2025
+Master's Thesis (TFM) from the Universitat Oberta de Catalunya (UOC), 2026
 
 ## Overview
 

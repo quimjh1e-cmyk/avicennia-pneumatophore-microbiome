@@ -1,6 +1,14 @@
 # Taxonomic Diversity and Metabolic Potential of Microbial Communities on *Avicennia germinans* Pneumatophores
 
-Master's Thesis (TFM) from the Universitat Oberta de Catalunya (UOC), 2026
+Master's Thesis (TFM) from the Universitat Oberta de Catalunya (UOC), carried out at the Centro de Investigaciones Biológicas del Noroeste S.C. (CIBNOR) and the Centro Interdisciplinario de Ciencias Marinas (CICIMAR), Instituto Politécnico Nacional (IPN), 2026
+
+### Authors
+
+**Quim Heintze**¹, **Blanca Estela Romero Lopez**², **Bárbara González Acosta**³
+
+¹ Universitat Oberta de Catalunya (UOC), Master in Bioinformatics and Biostatistics
+² Centro de Investigaciones Biológicas del Noroeste S.C. (CIBNOR)
+³ Centro Interdisciplinario de Ciencias Marinas (CICIMAR), Instituto Politécnico Nacional (IPN)
 
 ## Overview
 
@@ -119,7 +127,7 @@ Raw FASTQ files (48 paired-end files, ~957 MB) are deposited in NCBI SRA:
 
 ## Citation
 
-Heintze, Q. (2026). Spatiotemporal variation and anthropogenic influence on epiphytic prokaryotic communities of *Avicennia germinans* pneumatophores. Master's Thesis, Universitat Oberta de Catalunya.
+Heintze, Q., Romero Lopez, B. E., & González Acosta, B. (2026). Spatiotemporal variation and anthropogenic influence on epiphytic prokaryotic communities of *Avicennia germinans* pneumatophores. Master's Thesis, Universitat Oberta de Catalunya.
 
 ## License
 
